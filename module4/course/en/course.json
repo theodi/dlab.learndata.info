@@ -28,12 +28,6 @@
         {
           "_type": "link",
           "_local": "true",
-          "title": "<span class='side-single-title'>Main menu</span>",
-          "_link": "../index.html"
-        },
-        {
-          "_type": "link",
-          "_local": "true",
           "title": "Module 1<span class='sidebar-module-progress' id='ODI_1_tick_sidebar'></span>",
           "description": "What is open data?",
           "_link": "../module1/"
