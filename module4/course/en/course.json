@@ -239,13 +239,13 @@
         {
           "_type": "link",
           "title": "Open data certificate",
-          "description": "<span class='open-data-certificate'><img alt='Badge' src='adapt/css/assets/badge.png'/><ul class='open-data-certificate-details'> <li> <span>Open: ODI eLearning Data</span> </li> <li> <span>Pilot Open Data Certificate (final)</span> </li> <li> <span>Active - self certified</span> </li> </ul> </span>",
+          "description": "<span class='open-data-certificate'><img alt='Badge' src='adapt/css/assets/badge.png'/><div class='open-data-certificate-text'><p>Open: ODI eLearning Data</p><p>Pilot Open Data Certificate (final)</p><p>Active - self certified</p></div></span>",
           "_link": "https://certificates.theodi.org/datasets/25215/certificate"
         },
         {
           "_type": "link",
           "title": "Open licence",
-          "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='https://i.creativecommons.org/l/by-sa/4.0/88x31.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+          "description": "<div align='center'><img alt='Creative Commons Licence' style='border-width:0' src='adapt/css/assets/licence.png' /></div><br /><span xmlns:dct='http://purl.org/dc/terms/' property='dct:title'>Learning open data</span> by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
           "_link": "http://creativecommons.org/licenses/by-sa/4.0/"
         },
         {
@@ -254,7 +254,7 @@
         },
         {
           "title": "Exclusions",
-          "description": "This license does not cover: <ul><li>Logos and trade marks belonging to the Open Data Institute</li><li>Third party content (such as images)</li></ul>"
+          "description": "This licence does not cover: <p>&nbsp;&gt; Logos and trade marks belonging to the Open Data Institute<br/>&nbsp;&gt; Third party content (such as images)</p>"
         },
         {
           "title": "Non-endorsement",
