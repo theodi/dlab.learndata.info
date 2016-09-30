@@ -1,4 +1,6 @@
-var api_url = "https://odi-elearning.herokuapp.com/";
+//var api_url = "https://odi-elearning.herokuapp.com/";
+var api_url = "http://localhost/~davetaz/odi/ODI-eLearning-adapt2/web/";
+
 if (!localStorage.getItem("_id")) {
   	$.get( api_url + "create_id.php", function( data ) {
   		window.localStorage.setItem("_id",data);
