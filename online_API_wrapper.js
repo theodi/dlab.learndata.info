@@ -1,5 +1,4 @@
-//var api_url = "https://odi-elearning.herokuapp.com/";
-var api_url = "http://localhost/~davetaz/odi/ODI-eLearning-adapt2/web/";
+var api_url = "https://odi-elearning.herokuapp.com/";
 
 function setID() {
   	$.get( api_url + "create_id.php", function( data ) {
