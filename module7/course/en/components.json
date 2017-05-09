@@ -313,6 +313,7 @@
     },
     {
         "_id":"c-61",
+        "_adapt2id": "58c6aaaad084d5167a04b17a",
         "_parentId":"b-60",
         "_type":"component",
         "_component":"gmcq",
@@ -425,6 +426,7 @@
     },
     {
         "_id":"c-72",
+        "_adapt2id": "58c6aaaad084d5167a04b0b6",
         "_parentId":"b-70",
         "_type":"component",
         "_component":"mcq",

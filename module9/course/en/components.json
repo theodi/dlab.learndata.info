@@ -331,6 +331,7 @@
     },
     {
         "_id":"c-60",
+        "_adapt2id": "58c6aaaad084d5167a04b0ba",
         "_parentId":"b-60",
         "_type":"component",
         "_component":"mcq",
@@ -399,6 +400,7 @@
     },
     {
         "_id":"c-70",
+        "_adapt2id": "58c6aaaad084d5167a04b0bb",
         "_parentId":"b-70",
         "_type":"component",
         "_component":"mcq",
@@ -467,6 +469,7 @@
     },
         {
         "_id":"c-80",
+        "_adapt2id": "58c6aaaad084d5167a04b0bc",
         "_parentId":"b-80",
         "_type":"component",
         "_component":"mcq",

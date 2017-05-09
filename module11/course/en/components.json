@@ -323,6 +323,7 @@
     },
     {
         "_id":"c-62",
+        "_adapt2id": "58c6aaaad084d5167a04b0c0",
         "_parentId":"b-60",
         "_type":"component",
         "_component":"mcq",
@@ -391,6 +392,7 @@
     },
     {
         "_id":"c-72",
+        "_adapt2id": "58c6aaaad084d5167a04b0c1",
         "_parentId":"b-70",
         "_type":"component",
         "_component":"mcq",
@@ -459,6 +461,7 @@
     },
     {
         "_id":"c-82",
+        "_adapt2id": "58c6aaaad084d5167a04b0c2",
         "_parentId":"b-80",
         "_type":"component",
         "_component":"mcq",
@@ -535,6 +538,7 @@
     },
     {
         "_id":"c-92",
+        "_adapt2id": "58c6aaaad084d5167a04b0c3",
         "_parentId":"b-90",
         "_type":"component",
         "_component":"mcq",
