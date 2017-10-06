@@ -1,0 +1,142 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/ce0bd3bebcb78c3e7d0a750bf77ccb8f482f18a7.png"
+    },
+    "_id": "59301da0d084d5167a04f29e",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>You may find something interesting&nbsp;when you are cleaning, analysing and interrogating your dataset. If this is significant, the next stage will be to communicate this to others. Data visualisations help communicate insight found in data in a&nbsp;quick and easy way.</p>",
+    "displayTitle": "Data visualisation techniques",
+    "title": "Data visualisation techniques",
+    "_ODILicence": {
+      "_items": [
+        {
+          "_graphic": {
+            "src": "https://licensebuttons.net/l/by/4.0/88x31.png",
+            "alt": ""
+          },
+          "description": "<p>Data visualisation techniques by&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>&nbsp;is licensed under a Creative Commons Attribution 4.0 International Licence</p>",
+          "title": ""
+        },
+        {
+          "_graphic": {
+            "src": "",
+            "alt": ""
+          },
+          "description": "<p>The content, including text and structure is available for you to&nbsp;<em>use</em>,&nbsp;<em>reuse</em>&nbsp;and&nbsp;<em>share</em>(including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "title": "Content usage"
+        },
+        {
+          "_graphic": {
+            "src": "",
+            "alt": ""
+          },
+          "description": "<p>This licence does not cover:</p><ul><li>Logos and trademarks such as those belonging to dLab or the&nbsp;Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "title": "Exclusions"
+        },
+        {
+          "_graphic": {
+            "src": "",
+            "alt": ""
+          },
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "title": "Non-endorsement"
+        },
+        {
+          "_graphic": {
+            "src": "",
+            "alt": ""
+          },
+          "description": "<p>The Information is licensed &#39;as is&#39;. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "title": "No warranty"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": "<p>This work &quot;Data visualisation techniques&quot;, is a derivative of &quot;<a href=\"http://findingstories.learndata.info/#/id/57adb0cce396ef981f39e9d4\" target=\"_blank\">Data visualisation formats</a>&quot; by&nbsp;the <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>"
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Describe a number data visualisations and their usage"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Choose an appropriate visualisation for data"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/dd448eba6939ee52c989ec2d5151d71c3858c5ac.png"
+    },
+    "_id": "5930201cd084d5167a04f2ad",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>This module explores digital maps: how open data can enhance maps; how to use maps&nbsp;in web sites and projects; and how to visualise and explore data with them.</p>",
+    "displayTitle": "Mapping open data",
+    "title": "Mapping open data",
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Explain the benefits of open mapping"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Select the appropriate technique to describe something on a map"
+        },
+        {
+          "level": "practitioner",
+          "credits": 10,
+          "outcome": "Create a number of different maps from open data"
+        }
+      ]
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
+    }
+  }
+]

@@ -1,0 +1,1395 @@
+[
+  {
+    "_id": "59301f3bd084d5167a04f2a6",
+    "_layout": "left",
+    "_parentId": "59301f34d084d5167a04f2a5",
+    "_type": "component",
+    "body": "<p>You may find something interesting in the data when you are cleaning, analysing and interrogating your dataset. If this finding is significant, the next stage will be to communicate this to others. Data visualisations help communicate insight found in data in a quick and easy way.</p><p>This module explores:</p><ul><li>Introduction to data visualisation</li><li>Why visualise data?</li><li>Data visualisations and their use</li><li dir=\"ltr\">Appropriate visualisation for data</li></ul>",
+    "displayTitle": "Data visualisation techniques",
+    "title": "Data visualisation techniques",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59302360d084d5167a04f2b0",
+    "_layout": "left",
+    "_parentId": "5930201cd084d5167a04f2af",
+    "_type": "component",
+    "body": "<p>This module explores digital maps and&nbsp;how open data can enhance them; how to use maps in&nbsp;projects; and how to visualise and explore data with them.&nbsp;By the end of the module, you&#39;ll have a good understanding of the issues around digital mapping, and&nbsp;skills&nbsp;that can be used in your own work.</p><p>The module explores:</p><ul><li>Introduction to digital maps</li><li>Benefits of open mapping</li><li>How to describe something on a map</li><li>Formats and standards</li><li>Practical mapping with CartoDB</li></ul>",
+    "displayTitle": "Mapping open data",
+    "title": "Mapping open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5930248cd084d5167a04f2b8",
+    "_layout": "right",
+    "_parentId": "59302477d084d5167a04f2b6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "small": "course/en/assets/e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59302a64d084d5167a04f2bc",
+    "_layout": "left",
+    "_parentId": "59302a3bd084d5167a04f2bb",
+    "_type": "component",
+    "body": "<p>Ramani Huria is an excellent case study in the benefits open mapping can have. The key to the success and multiplied benefits from the project all stem from the completely open approach taken.</p><p>From the choice of mapping platform to the community engagement and crowd sourcing, the project ensured that&nbsp;all data remained open and that the process of collecting it was open.&nbsp;</p><p>OpenStreetMap is a free, editable map of the world that is being built by volunteers largely from scratch and released with an open content license. This is a significantly different model to most mapping providers who guard their maps and charge for access and do not allow any edits. In countries such as Tanzania, OpenStreetMap allows&nbsp;incredibly rich maps to be created, which open up the data, so others can innovate.&nbsp;</p>",
+    "displayTitle": "Benefits of open mapping",
+    "title": "Benefits of open mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59302a66d084d5167a04f2bd",
+    "_layout": "right",
+    "_parentId": "59302a3bd084d5167a04f2bb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5e3b0399a855e644dd6649293dd580aafa7f0c9b.png",
+      "small": "course/en/assets/5e3b0399a855e644dd6649293dd580aafa7f0c9b.png",
+      "attribution": "<a href=\"http://wiki.openstreetmap.org\" target=\"_blank\">Open Street Map</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5934636cd084d5167a04f749",
+    "_layout": "left",
+    "_parentId": "59346360d084d5167a04f748",
+    "_type": "component",
+    "body": "<p>Data visualisations can be a powerful&nbsp;way of bringing data to life, and helping others&nbsp;deduce meaning from it. But before you start visualising your data, you should consider some key aspects.</p>",
+    "displayTitle": "Appropriate visualisations for data",
+    "title": "Appropriate visualisations for data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Audience",
+        "body": "<p>Before creating a visualisation,&nbsp;you need to decide&nbsp;how you want to share it&nbsp;and who you want your audience to be.</p><p>Your audience may already have a set way of engaging with data that you cannot change. For example, if your audience is comfortable reading long reports then a visualisation may not be the best solution.&nbsp;</p><p>You should also think about the medium for consumption and technology available and understandable by your audience. For example, it would not be wise to create a full-screen dashboard for those who only have access to mobile devices.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Purpose",
+        "body": "<p>Once you know your audience, consider the purpose to your data visualisation; why are you visualising the data?&nbsp;</p><p>Remember the four key reasons we introduced earlier:</p><ul><li>Clear communication</li><li>Storytelling</li><li>Aiding understanding</li><li>Encouraging interaction with the data</li></ul><p>Some visualisations can serve multiple purposes, however, you should try to avoid mixing clear communication with any other purpose (e.g. aiding understanding). This might dilute the message you are trying to communicate to the point where it is no longer obvious to the audience. Often this happens when the user is presented with too many visualisations or infographics together.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data",
+        "body": "<p>Not all data is suitable&nbsp;for a particular visualisation.&nbsp;</p><p>For example, a line or area chart should never be used for data that is not sampled over time.&nbsp;</p><p>Consider carefully your dataset type and how the data was collected. There are a number of typical types of data:</p><p><strong>Time series</strong>: Observations of the same thing over time &ndash; best represented on a line chart or animated graphic.</p><p><strong>Population data</strong>: Observations of different things at a single point in time &ndash; best represented by a bar chart, pie chart or&nbsp;other static visualisations.&nbsp;</p><p><strong>Observations</strong>: Observations of different things at different points in time &ndash; best represented on a dashboard.</p><p>Confusion can occur when a dataset combines one or more of these types of data and you must decide how to use that dataset.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59346373d084d5167a04f74a",
+    "_layout": "right",
+    "_parentId": "59346360d084d5167a04f748",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "small": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/global-communication-concept-102447179\" target=\"_blank\">hoperan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59347843d084d5167a04f75b",
+    "_layout": "full",
+    "_parentId": "5930352ad084d5167a04f2c3",
+    "_type": "component",
+    "body": "<p>There are many parts to a map and&nbsp;cartography can become an art. This section briefly looks at the many layers of a map.</p>",
+    "displayTitle": "How to describe something on a map",
+    "title": "How to describe something on a map",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Points",
+        "body": "<p>Points help you precisely locate something on a map, for example, a person or a place.&nbsp;</p><p>Often these are used to mark the middle of an object that might often be better represented by another map feature, such as a line or polygon.</p>",
+        "_graphic": {
+          "src": "course/en/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.fixmystreet.com/\" target=\"_blank\">Fixmystreet</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Points"
+      },
+      {
+        "title": "Lines",
+        "body": "<p>Lines represent the shape and location of geographic objects, such as street centre&nbsp;lines, rivers or ferry routes.</p><p>Lines are also used to represent features that have length but no area, such as contour lines and boundaries.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/cc0743d56044f6e585a51f71e14e270e49ecf74e.png",
+          "alt": "",
+          "attribution": "<a href=\"http://ansoncfit.com\" target=\"_blank\">http://ansoncfit.com</a> <span class='assetLicence'>[CC-BY-NC-SA]</span>"
+        },
+        "strapline": "Lines"
+      },
+      {
+        "title": "Polygons",
+        "body": "<p>Polygons are complete shapes that represent a feature such as regions (as shown here) or buildings.</p><p>They can also be used to represent land-use or even soil type.&nbsp;</p><p>Using GIS software, you can automatically calculate which points are in which polygon. This is often used to shade areas on a map dependant on the data collected from many points, e.g. the performance of schools in a region.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+          "alt": "",
+          "attribution": "<a href=\"https://en.wikipedia.org/wiki/File:Tanzania_regions.svg\" target=\"_blank\">Gregor Aisch</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Polygons"
+      },
+      {
+        "title": "Bringing it all together",
+        "body": "<p>Bringing all these features together allows us to create powerful maps that accurately show the layout and features of a huge area.</p><p>The example here of the centre of Dar Es Salaam is one of the most comprehensive examples in the world. This data was gathered as part of the&nbsp;Ramani Huria project and shows roads (lines), buildings (polygons), building use (points) and annotations that describe each point.</p>",
+        "_graphic": {
+          "src": "course/en/assets/168853c0a47147e13d2dc80a40342372a4a63874.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.openstreetmap.org/#map=19/-6.80164/39.25077\" target=\"_blank\">Open Street Map contributors</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Bringing it all together"
+      }
+    ]
+  },
+  {
+    "_id": "59347f37d084d5167a04f767",
+    "_layout": "left",
+    "_parentId": "59347f04d084d5167a04f766",
+    "_type": "component",
+    "body": "<p>There are a number of different data formats and standards used to represent mapping data. It is important to understand that all of the different data formats rely on one or more standard ways of representing a simple location (or point). Putting many points together enables&nbsp;lines and polygons to be drawn. &nbsp;</p><p>Explore the different aspects below:</p>",
+    "displayTitle": "Formats and standards",
+    "title": "Formats and standards",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "A standard way to represent a location",
+        "body": "<p>The globally recognised way to represent a location of something is via the Global Positioning System&nbsp;(GPS). Devices that use this system typically give location in terms of two X-Y co-ordinates on a map.&nbsp;</p><p>There are however many different X-Y standards including longitude/latitude and easting/northing.&nbsp;</p><p>You will have to be very careful when processing and combining&nbsp;mapping data to ensure that all data is using the same co-ordinates system.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Common data formats",
+        "body": "<p>Representing simple point data (using one X-Y co-ordinate) can be done in a multitude of formats, including&nbsp;spreadsheets.&nbsp;</p><p>However, when it comes to more complex data, such as lines and polygons, there are many other formats more suited to the purpose including <a href=\"https://en.wikipedia.org/wiki/Keyhole_Markup_Language\" target=\"_blank\">KML</a>, <a href=\"https://en.wikipedia.org/wiki/GeoJSON\" target=\"_blank\">GeoJSON</a> and <a href=\"https://en.wikipedia.org/wiki/Shapefile\" target=\"_blank\">GIS Shapefiles</a> (as used by the National Bureau of Statistics in Tanzania).&nbsp;</p><p>As with data formats, not all geographic data formats are open and easily usable by all tools. It may be necessary to use a tool such as <a href=\"http://www.mapsdata.co.uk/online-file-converter/\" target=\"_blank\">maps data</a>&nbsp;to convert between the different formats.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59347f3ad084d5167a04f768",
+    "_layout": "right",
+    "_parentId": "59347f04d084d5167a04f766",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "small": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59348242d084d5167a04f784",
+    "_layout": "right",
+    "_parentId": "593481fdd084d5167a04f783",
+    "_type": "component",
+    "body": "<p><a href=\"http://cartodb.com/\" target=\"_blank\">CartoDB</a>&nbsp;is a very popular online tool for creating geographic visualisations on maps. It has simple wizards to help you get started but also allows you to expose the code and customise your GIS queries to take complete control. CartoDB can also merge and boundary-locate geographic data without you having to write complex GIS queries yourself.</p><p>Several exercises have been developed to help you explore the features of CartoDB</p>",
+    "displayTitle": "Practical mapping with CartoDB",
+    "title": "Practical mapping with CartoDB",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Explore the exercises below",
+    "_items": [
+      {
+        "title": "Population and education in Tanzania",
+        "body": "<p>This exercise focuses on plotting population statistics for the different districts in Tanzania. This is then combined with the educational attainment of each district.</p><p>You will need the following datasets for this exercise:</p><p><strong>Tanzania district boundaries</strong></p><p>Official boundary files for Tanzania from the National Bureau for Statistics</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/Tanzania_regions.kml\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.nbs.go.tz/nbstz/index.php/english/statistics-by-subject/population-and-housing-census/258-2012-phc-shapefiles-level-one-and-two\" target=\"_blank\">View source</a></p><p><strong>Tanzania population data</strong></p><p>Official statistics on Tanzania from the National Bureau for Statistics</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/Tanzania_population.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.nbs.go.tz/nbs/takwimu/references/Tanzania_in_Figures_2015.pdf\" target=\"_blank\">View source</a></p><p><strong>Tanzania education data</strong></p><p>Performance of schools with 40 or more pupils across Tanzania</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/BRN2015_RANKING_40_AND_MORE-PIVOT.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://www.necta.go.tz/brn2015/\" target=\"_blank\">View source</a></p><p><a class=\"button\" href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/MappingwithcartoDBTanzania.pdf\" target=\"_blank\">Download the exercise</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Water points in Tanzania",
+        "body": "<p>This exercise focuses on plotting simple point-based data on a map. It focusses on combining many aspects to indicate the type of water supply and the quality of the water.</p><p>You will need the following datasets for this exercise:</p><p><strong>Water points in Tanzania (July 2015)</strong></p><p>Open data from the Tanzania Open Data portal.</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/allwaterpointsjuly2015-cleaned.csv\" target=\"_blank\">Download</a>&nbsp;|&nbsp;<a href=\"http://opendata.go.tz/dataset/water-dashboard/resource/58edfa63-b329-45b5-b17f-27603420cd10\" target=\"_blank\">View source</a></p><p><strong>Icon set for map</strong></p><p>A small icon set to use with the map.</p><p><a href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/map_icons.zip\" target=\"_blank\">Download</a></p><p><a class=\"button\" href=\"http://tanzania.learndata.info/inpractice3/course/en/exercises/MappingwithcartoDBTanzaniawateredition.pdf\" target=\"_blank\">Download the exercise</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59348248d084d5167a04f785",
+    "_layout": "left",
+    "_parentId": "593481fdd084d5167a04f783",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e19a7fc34ebccbd844cb468a8a3c4a3252c153ed.png",
+      "small": "course/en/assets/e19a7fc34ebccbd844cb468a8a3c4a3252c153ed.png",
+      "attribution": "<a href=\"http://opendata.go.tz/en/indicator/2cb7fed8-4af4-11e5-a53c-0e9d821ea90d\" target=\"_blank\">Tanzania government open data portal</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59356eb2d084d5167a04f7a8",
+    "_layout": "left",
+    "_parentId": "59356ea2d084d5167a04f7a7",
+    "_type": "component",
+    "body": "<p><strong>What is one reason why we visualise data?</strong></p>",
+    "displayTitle": "Why visualise data?",
+    "title": "Q: Why visualise data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "To tell an engaging story",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "To impress your audience",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "To fundraise",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A good data visualisation can help&nbsp;to tell an engaging story. This can be a very effective way to entertain and directly educate users.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A good data visualisation can help&nbsp;to tell an engaging story. This can be a very effective way to entertain and directly educate users.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59356eb5d084d5167a04f7a9",
+    "_layout": "right",
+    "_parentId": "59356ea2d084d5167a04f7a7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/50acadab73c9617dbb20e58de45e13c61bd65dd7.png",
+      "small": "course/en/assets/50acadab73c9617dbb20e58de45e13c61bd65dd7.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59359a20d084d5167a04f7ab",
+    "_layout": "left",
+    "_parentId": "59359a10d084d5167a04f7aa",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to visualise data?",
+    "title": "Are you ready to visualise data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59359a38d084d5167a04f7af",
+    "_layout": "left",
+    "_parentId": "59359a38d084d5167a04f7ae",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+      "small": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+      "attribution": "<a href=\"http://www.usablestats.com/lessons/normal\" target=\"_blank\">Usable stats</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "59359a38d084d5167a04f7b0",
+    "_layout": "right",
+    "_parentId": "59359a38d084d5167a04f7ae",
+    "_type": "component",
+    "body": "<p><strong>Which of the following charts best shows the distribution of a dataset?</strong></p>",
+    "displayTitle": "Which chart shows the distribution of data?",
+    "title": "Q: Which chart shows the distribution of data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Pie chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Histogram",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Line chart",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>A histogram clearly shows&nbsp;distribution (or shape) of the data along with clearly showing the locations of the median and mode averages.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A histogram clearly shows&nbsp;distribution (or shape) of the data along with clearly showing the locations of the median and mode averages.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59359c5ed084d5167a04f7b5",
+    "_layout": "left",
+    "_parentId": "59359c43d084d5167a04f7b4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " Are you ready to map open data?",
+    "title": " Are you ready to map open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59359c60d084d5167a04f7b6",
+    "_layout": "right",
+    "_parentId": "59359c43d084d5167a04f7b4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59359ca2d084d5167a04f7b9",
+    "_layout": "left",
+    "_parentId": "59359c7ad084d5167a04f7b7",
+    "_type": "component",
+    "body": "<p><strong>What is the benefit of mapping data openly?</strong></p>",
+    "displayTitle": "Benefits of open mapping",
+    "title": "Q: Benefits of open mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Only your organisation gets the value from the data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Anyone can innovate with your data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Google maps will benefit from your data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>By mapping your data openly, you enable anyone to innovate with it.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>By mapping your data openly, you enable anyone to innovate with it.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59359ca4d084d5167a04f7ba",
+    "_layout": "right",
+    "_parentId": "59359c7ad084d5167a04f7b7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5e3b0399a855e644dd6649293dd580aafa7f0c9b.png",
+      "small": "course/en/assets/5e3b0399a855e644dd6649293dd580aafa7f0c9b.png",
+      "attribution": "<a href=\"http://wiki.openstreetmap.org\" target=\"_blank\">Open Street Map</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59359f22d084d5167a04f7bf",
+    "_layout": "left",
+    "_parentId": "59359f22d084d5167a04f7be",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+      "small": "course/en/assets/280023e2795af132b2cb94521e4c1ce546174f30.png",
+      "attribution": "<a href=\"https://en.wikipedia.org/wiki/File:Tanzania_regions.svg\" target=\"_blank\">Gregor Aisch</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "59359f22d084d5167a04f7c2",
+    "_layout": "right",
+    "_parentId": "59359f22d084d5167a04f7be",
+    "_type": "component",
+    "body": "<p><strong>What kind of data would you represent with polygons?</strong></p>",
+    "displayTitle": "How to describe something on a map",
+    "title": "Q: How to describe something on a map",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Complete shapes, such as regions or buildings",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Street centres, rivers or ferry routes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Exact coordinates of places of interest",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Polygons are complete shapes that represent a feature such as regions&nbsp;or buildings. They can also be used to represent land-use or even soil type.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Polygons are complete shapes that represent a feature such as regions&nbsp;or buildings. They can also be used to represent land-use or even soil type.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59359ff3d084d5167a04f7c5",
+    "_layout": "right",
+    "_parentId": "59359ff2d084d5167a04f7c4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "small": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59359ff3d084d5167a04f7c8",
+    "_layout": "left",
+    "_parentId": "59359ff2d084d5167a04f7c4",
+    "_type": "component",
+    "body": "<p><strong>When mapping location data, you should be aware that...</strong></p>",
+    "displayTitle": "Formats and standards",
+    "title": "Q: Formats and standards",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "there are many different standards for describing location",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "you can ensure maximum media coverage",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "all mapping data is standardised and ready to use",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Locations are typically given with&nbsp;two X-Y coordinates on a map&nbsp;but there are different formats.</p><p>You will have to be careful when processing and combining&nbsp;mapping data to ensure that all data is using the same coordinates system.</p><p>&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Locations are typically given with&nbsp;two X-Y coordinates on a map, but there are different formats.</p><p>You will have to be careful when processing and combining&nbsp;mapping data to ensure that all data is using the same coordinates system.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5935a4b8d084d5167a04f7d7",
+    "_layout": "left",
+    "_parentId": "5935a4a3d084d5167a04f7d6",
+    "_type": "component",
+    "body": "<p>This module explores digital maps and&nbsp;how open data can enhance maps; how to use maps in&nbsp;projects; and how to visualise and explore data with them.&nbsp;</p><p>In this module, we have explored the benefits of open mapping,&nbsp;how to describe something on a map and common formats and structures.</p>",
+    "displayTitle": "Mapping open data",
+    "title": "Summary: Mapping open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5935a4bad084d5167a04f7d8",
+    "_layout": "right",
+    "_parentId": "5935a4a3d084d5167a04f7d6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "small": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5935a93fd084d5167a04f7de",
+    "_layout": "right",
+    "_parentId": "5935a93fd084d5167a04f7dd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "small": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/global-communication-concept-102447179\" target=\"_blank\">hoperan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5935a93fd084d5167a04f7e1",
+    "_layout": "left",
+    "_parentId": "5935a93fd084d5167a04f7dd",
+    "_type": "component",
+    "body": "<p><strong>Why do you need to consider your audience before you start creating your visualisation?</strong></p>",
+    "displayTitle": "Before you start",
+    "title": "Q: Before you start",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Your audience may have a set way of engaging with your data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "You shouldn't, your audience is irrelevant",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Your audience is your biggest critic",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Your audience may already have a set way of engaging with data that you cannot change. For example, if your audience is comfortable reading long reports then a visualisation may not be the best solution.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Your audience may already have a set way of engaging with data that you cannot change. For example, if your audience is comfortable reading long reports then a visualisation may not be the best solution.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5935aaf5d084d5167a04f7e9",
+    "_layout": "right",
+    "_parentId": "5935aadcd084d5167a04f7e7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "small": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59301ef1d084d5167a04f2a2",
+    "_layout": "right",
+    "_parentId": "59301da0d084d5167a04f2a0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d0d27cb926ed6ebfc46c7f07bfbc957de18ad130.png",
+      "small": "course/en/assets/d0d27cb926ed6ebfc46c7f07bfbc957de18ad130.png",
+      "attribution": "<a href=\"URL: https://en.wikipedia.org/wiki/William_Playfair#/media/File:Playfair_TimeSeries-2.png\" target=\"_blank\">William Playfair</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5935aaf2d084d5167a04f7e8",
+    "_layout": "left",
+    "_parentId": "5935aadcd084d5167a04f7e7",
+    "_type": "component",
+    "body": "<p>You may find something interesting&nbsp;when you are cleaning, analysing and interrogating your dataset. If this is significant, the next stage will be to communicate it to others. Data visualisations help to communicate insight found in data in a quick and easy way.</p><p>Creating effective visualisations is not as easy as it looks. The best examples take expertise and time to carefully create.</p><p>The transport research board in the US have produced an excellent report on <a href=\"https://www.nap.edu/catalog/24755/data-visualization-methods-for-transportation-agencies\" target=\"_blank\">data visualisation methods</a> which explores more of the areas outlined in this module.</p>",
+    "displayTitle": "Data visualisation techniques",
+    "title": "Summary: Data visualisation techniques",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59359a22d084d5167a04f7ac",
+    "_layout": "right",
+    "_parentId": "59359a10d084d5167a04f7aa",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59302366d084d5167a04f2b1",
+    "_layout": "right",
+    "_parentId": "5930201cd084d5167a04f2af",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "small": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "attribution": "<a href=\"http://dlab.or.tz\" target=\"_blank\">Tanzania dLab</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "59301f40d084d5167a04f2a7",
+    "_layout": "right",
+    "_parentId": "59301f34d084d5167a04f2a5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "small": "course/en/assets/4861282fc5c236db76c8262421afba1bc2d70748.jpg",
+      "attribution": "<a href=\"http://dlab.or.tz\" target=\"_blank\">Tanzania dLab</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "59301eeed084d5167a04f2a1",
+    "_layout": "left",
+    "_parentId": "59301da0d084d5167a04f2a0",
+    "_type": "component",
+    "body": "<p>Most&nbsp;charts used in modern data visualisation&nbsp;derive from the original design of&nbsp;<a href=\"http://en.wikipedia.org/wiki/William_Playfair\" rel=\"wikipedia\" title=\"William Playfair\">William Playfair</a>&nbsp;(1759&ndash;1823), a political economist.</p><p>William Playfair invented several types of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Information_graphics\" title=\"Information graphics\">diagram</a>: in 1786 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Line_chart\" title=\"Line chart\">line</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Area_chart\" title=\"Area chart\">area</a>&nbsp;and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Bar_chart\" title=\"Bar chart\">bar chart</a>&nbsp;of economic data, and in 1801 the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Pie_chart\" title=\"Pie chart\">pie chart</a>&nbsp;and circle graph.&nbsp;</p><p>Playfair&nbsp;argued that charts communicated better than tables of data and was the early pioneer of visual communication using charts.</p><p><em>Read more about the history of data visualisation on <a href=\"https://en.wikipedia.org/wiki/Infographic#History\" target=\"_blank\">wikipedia</a>.&nbsp;</em></p>",
+    "displayTitle": "Data visualisation",
+    "title": "Data visualisation",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59345a19d084d5167a04f73a",
+    "_layout": "full",
+    "_parentId": "593458a9d084d5167a04f737",
+    "_type": "component",
+    "body": "<p>William Playfair recognised that data tables did not effectively communicate to people. Even in the 18th century, he recognised the importance of visualising&nbsp;data to aid communication. Since this point, modern&nbsp;data literacy and access to data have meant that communication is not the only purpose of a data&nbsp;visualisation.</p>",
+    "displayTitle": "Why visualise data?",
+    "title": "Why visualise data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Clear communication",
+        "body": "<p>Powerful messages need to be communicated clearly.</p><p>Bar charts, pie charts and clear numbers are a very effective way to communicate.</p><p>Other effective methods use large visuals and introduce figures that may help people relate to the story (e.g. stick figures could be added to represent the number of people with the visual shown here).</p>",
+        "_graphic": {
+          "src": "course/en/assets/f502c3303f08487ea656417341dde575e401bc62.png",
+          "alt": "",
+          "attribution": "<a href=\"http://www.homelandsecuritynewswire.com/dr20161005-comparing-u-s-deaths-from-terrorism-vs-gun-violence\" target=\"_blank\">HSNW / Politifact</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Clear communication"
+      },
+      {
+        "title": "Storytelling",
+        "body": "<p>A good data visualisation can also help tell an engaging story.</p><p>This piece of work by the New York Times&nbsp;asks readers to engage directly with the story and challenges their existing knowledge about how President Obama did during his presidency.</p><p>This can be a very effective way to entertain and directly educate users. This appears to learners who are kinesthetic&nbsp;and like to learn by doing.&nbsp;</p><p>Why not find out how much you know about the Obama presidency?</p><p><a class=\"button\" href=\"https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html?_r=0\" target=\"_blank\">Explore this story</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/50acadab73c9617dbb20e58de45e13c61bd65dd7.png",
+          "alt": "",
+          "attribution": "<a href=\"https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html?_r=0\" target=\"_blank\">NY Times</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Storytelling"
+      },
+      {
+        "title": "Aiding understanding",
+        "body": "<p>Many visualisations are created to aid understanding of the patterns that exist in data.&nbsp;</p><p>Examples of such visualisations include scatter graphs, radar charts and bubble charts, which are often used to compare two or more aspects in data or look for early emergence of patterns in the data.</p><p>Such graphs are&nbsp;more complex and are not suitable for use to quickly communicate a clear message. To aid with explanation, other graphs or text will be required.</p><p>Shown is a radar graph comparing Tanzania&rsquo;s open data progress to that of the rest of Sub-Saharan Africa.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f2e9df69f26cbe1a3bdd8092c9b673832640cccc.png",
+          "alt": "",
+          "attribution": "<a href=\"http://opendatabarometer.org/data-explorer/?_year=2015&indicator=ODB&open=TZA\" target=\"_blank\">Open Data Barometer</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Aiding understanding"
+      },
+      {
+        "title": "Encouraging interaction with the data",
+        "body": "<p>Some visualisations add an&nbsp;interactive element that allows the free exploration of data. This type of visualisation&nbsp;can help get people interested in the data and help them to find their own story from it.&nbsp;</p><p>Dashboards are a good example of this type of visualisation. The one here shows water points in Tanzania and categorises them by how many are functional or not.&nbsp;</p><p>The key to any visualisation that is intended to get people interested in open data is to link directly to the raw data, such that people can interrogate it themselves.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3b2d594892830b2f90c1bb5026eadf0008ef9349.png",
+          "alt": "",
+          "attribution": "<a href=\"http://water.opendata.go.tz/#/dash/points/waterpoints/?_k=8rupjz\" target=\"_blank\">Tanzania Government Open Data Portal</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Encouraging interaction with the data"
+      }
+    ]
+  },
+  {
+    "_id": "593460cbd084d5167a04f742",
+    "_layout": "full",
+    "_parentId": "593460a4d084d5167a04f741",
+    "_type": "component",
+    "body": "<p>The type of data visualisation you need depends on the message you are trying to communicate and&nbsp;the data you are working with. The following sections explore these two aspects in more detail.</p>",
+    "displayTitle": "Data visualisations and their use",
+    "title": "Data visualisations and their use",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Bar charts",
+        "body": "<p>The human brain is very good at quickly judging the size of simple shapes, such as rectangles. Therefore, the bar chart can very effectively communicate differences.&nbsp;</p><p>Simple bar charts can communicate powerful messages quickly.&nbsp;Enhancing bar charts and pie charts with graphics and well-placed text can also aid clear understanding. You do not&nbsp;even always need scales or lines.</p><p>A bar chart is perfect for comparing the magnitude of two or more values.</p><p>The chart on the left compares the revenue of one product to the revenue of an entire company, where the product has made more money. If you were creating a visualisation to tell this story, what might you add to make this finding stand out even more?</p>",
+        "_graphic": {
+          "src": "course/en/assets/34eb7b4a0a4b7747b9d04b9920aff369a14523cc.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.businessinsider.com/iphone-bigger-than-microsoft-2012-2?IR=T\" target=\"_blank\">Business Insider</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Bar charts"
+      },
+      {
+        "title": "Line and area charts",
+        "body": "<p>Line and area charts should&nbsp;<strong>only</strong>&nbsp;be used where there is a time series to be displayed. In most countries and cultures,&nbsp;people read left to right. Therefore, line charts must be constructed to be read from left to right.&nbsp;</p><p>A line chart, as shown here, is best for comparing multiple sets of data over the same (or equivalent) timeframe.</p><p>An area chart can be used to emphasise the totals. When using area charts, it is best to use a stacked area to clearly show the total of all datasets over the same (or equivalent) period of time.</p>",
+        "_graphic": {
+          "src": "https://scripps.ucsd.edu/programs/keelingcurve/wp-content/plugins/sio-bluemoon/graphs/mlo_full_record.png",
+          "alt": "",
+          "attribution": "<a href=\"https://scripps.ucsd.edu/programs/keelingcurve/wp-content/plugins/sio-bluemoon/graphs/mlo_full_record.png\" target=\"_blank\">Scripps</a>"
+        },
+        "strapline": "Line and area charts"
+      },
+      {
+        "title": "Histograms",
+        "body": "<p>Histograms are used to examine the distribution of different measurements of a variable, such as the distribution of different heights in the&nbsp;figure here.</p><p>A histogram is perfect for showing graphically where the median and mode lie. They also&nbsp;show the distribution (or shape) of the data and surface any outliers that might skew the location of the mean.&nbsp;</p><p>Significantly, they can reveal whether&nbsp;the samples in your dataset are normally distributed, or contain data that might be skewed or falsified.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/31add8e4b3529b2c6fe0eb2468e4a9a8a7521774.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.usablestats.com/lessons/normal\" target=\"_blank\">Usable stats</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Histograms"
+      },
+      {
+        "title": "Maps",
+        "body": "<p>Many datasets are related in some way to locations, and so visualising data on a map is the perfect way to make the data come to life.</p><p>Care should be taken in creating&nbsp;the right type of map, and using&nbsp;the right features to direct the reader. This is something we look at in more detail in the next module.</p><p>The map shown here uses a simple traffic-light scale to show the teacher-to-pupil ratio in schools in Tanzania.</p><p>In the next module, we will create our own map from a similar dataset.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/54b8b64dfbbe5c7bd331bc3a43697369904987b4.png",
+          "alt": "",
+          "attribution": "<a href=\"http://opendata.go.tz/en/indicator/2cb7fed8-4af4-11e5-a53c-0e9d821ea90d\" target=\"_blank\">Tanzania Open Data Portal</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Maps"
+      }
+    ]
+  },
+  {
+    "_id": "59302489d084d5167a04f2b7",
+    "_layout": "left",
+    "_parentId": "59302477d084d5167a04f2b6",
+    "_type": "component",
+    "body": "<p>Digital maps and the associated Geographic Information Systems (GIS) enable us to easily capture, manipulate, analyse and present spatial and geographic data.&nbsp;</p><p>Geographic data here refers to any data that has an implicit or explicit association with a location. Typically, this covers a wide range of&nbsp;data, including positional data (e.g. locations of schools), boundary data (e.g. regions of Tanzania) and elevation data (e.g. the height of Kilimanjaro).&nbsp;</p><p>Maps have for centuries been critical to helping us to understand where we are and what is around us. Digital maps go beyond this and allow us to create new data visualisations for any dataset that has a geographic connection.&nbsp;Digital maps can help to inform decisions that we need to make, for example...</p>",
+    "displayTitle": "Introduction to digital mapping",
+    "title": "Introduction to digital mapping",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59302aabd084d5167a04f2bf",
+    "_layout": "full",
+    "_parentId": "59302a9fd084d5167a04f2be",
+    "_type": "component",
+    "body": "<p>Taking an open approach to digital mapping enables other people to help create or enrich geographic data and makes the data available for other people to benefit from.&nbsp;Open digital mapping platforms (e.g. OpenStreetMap) enable anyone to create their own maps using this approach.&nbsp;</p><p>Ramani Huria is a community-based mapping project that began in Dar es Salaam. Its initial&nbsp;aim is to&nbsp;create highly accurate maps of the most flood-prone areas of the city and inform decisions about&nbsp;how to protect these areas. As the maps have taken shape, their benefits have multiplied and their potential magnified. They now serve as foundational tools for development within all socio-economic spheres in Tanzania.&nbsp;</p>",
+    "displayTitle": "Community mapping for flood resilience and development",
+    "title": "Community mapping for flood resilience and development",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Watch the video to find out more about the Ramani Huria project.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=7Pa0wgMstE8",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "screenSize": {
+    "large": 1024,
+    "medium": 759,
+    "small": 519
+  },
+  "_id": "59301d2ed084d5167a04f12d",
+  "_drawer": {
+    "_duration": 400,
+    "_hideEasing": "easeInQuart",
+    "_showEasing": "easeOutQuart"
+  },
+  "_courseId": "59301d2dd084d5167a04f09c",
+  "_accessibility": {
+    "_isTextProcessorEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": false,
+    "_isEnabled": false
+  },
+  "__v": 0,
+  "_tutor": {
+    "_isEnabled": false
+  },
+  "_trackingHub": {
+    "_channels": [
+      {
+        "_isStateSource": true,
+        "_saveStateIsEnabled": true,
+        "_transport": {
+          "_auth": {
+            "_password": "",
+            "_username": ""
+          },
+          "_endpoint": "https://lms2.learndata.info/api/v2/",
+          "_handlerName": "ODILRSStorageTransportHandler"
+        },
+        "_msgComposerName": "learnifyMessageComposer",
+        "_isEnabled": true,
+        "_name": "ODILRS"
+      }
+    ],
+    "_courseID": "dlab.learndata.info/visualisation",
+    "_isEnabled": true
+  },
+  "build": {
+    "includes": [
+      "adapt-theme-dlab",
+      "adapt-contrib-boxMenu",
+      "adapt-trackingHub",
+      "adapt-contrib-aboutPage",
+      "adapt-skillsFramework",
+      "adapt-contrib-tutor",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-odi-licence",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-accordion",
+      "adapt-contrib-narrative",
+      "adapt-contrib-mcq",
+      "adapt-contrib-media"
+    ]
+  }
+}
