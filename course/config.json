@@ -26,61 +26,22 @@
   "_tutor": {
     "_isEnabled": false
   },
-  "_licencePage": {
-    "licence": "CC-BY-SA 4.0"
-  },
-  "_aboutPage": {
-    "_items": [
-      {
-        "_graphic": {
-          "src": "adapt/css/assets/logo-small.png",
-          "alt": "The Open Data Institute"
-        },
-        "description": "Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
-        "title": "ODI Training Team"
-      },
-      {
-        "title": "European Data Portal",
-        "description": "<p>Funding for module development and implementation provided by the <span>European Data Portal</span>. Original content is available&nbsp;<a href=\"http://europeandataportal.eu/elearning/en/\" target=\"_blank\">here</a>, used under a&nbsp;Creative Commons Attribution-ShareAlike 4.0 International Licence.</p>",
-        "_graphic": {
-          "alt": "European Data Portal",
-          "src": "adapt/css/assets/edp.png"
-        }
-      },
-      {
-        "_graphic": {
-          "src": "adapt/css/assets/sponge.png",
-          "alt": "Sponge UK"
-        },
-        "description": "Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
-        "title": "Sponge UK"
-      },
-      {
-        "_graphic": {
-          "src": "adapt/css/assets/adapt.png",
-          "alt": "Adapt learning"
-        },
-        "description": "Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
-        "title": "Adapt learning"
-      }
-    ]
-  },
   "_trackingHub": {
     "_channels": [
       {
-        "_isStateSource": true,
-        "_saveStateIsEnabled": true,
-        "_transport": {
-          "_auth": {
-            "_password": "",
-            "_username": ""
-          },
-          "_endpoint": "https://lms2.learndata.info/api/v2/",
-          "_handlerName": "ODILRSStorageTransportHandler"
-        },
-        "_msgComposerName": "learnifyMessageComposer",
+        "_name": "ODILRS",
         "_isEnabled": true,
-        "_name": "ODILRS"
+        "_msgComposerName": "learnifyMessageComposer",
+        "_transport": {
+          "_handlerName": "ODILRSStorageTransportHandler",
+          "_endpoint": "https://lms2.learndata.info/api/v2/",
+          "_auth": {
+            "_username": "",
+            "_password": ""
+          }
+        },
+        "_saveStateIsEnabled": true,
+        "_isStateSource": true
       }
     ],
     "_courseID": "dlab.learndata.info",
@@ -90,18 +51,18 @@
     "includes": [
       "adapt-theme-dlab",
       "adapt-contrib-boxMenu",
+      "adapt-contrib-aboutPage",
       "adapt-trackingHub",
-      "adapt-odi-licence",
       "adapt-contrib-pageLevelProgress",
       "adapt-contrib-tutor",
       "adapt-skillsFramework",
-      "adapt-contrib-aboutPage",
       "adapt-cordova",
+      "adapt-odi-licence",
       "adapt-contrib-graphic",
       "adapt-contrib-mcq",
-      "adapt-contrib-media",
       "adapt-contrib-text",
       "adapt-contrib-accordion",
+      "adapt-contrib-media",
       "adapt-contrib-narrative",
       "adapt-contrib-gmcq"
     ]

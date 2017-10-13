@@ -16,6 +16,13 @@
     "body": "<p>Open data is data that anyone can access, use and share.</p><p>In this module we will explore the meaning behind open data and how open data helps to bring diverse benefits to governments, businesses and civil society.</p>",
     "displayTitle": "What is open data?",
     "title": "What is open data?",
+    "_trackingHub": {
+      "_pageID": "ODI_1"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -30,12 +37,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_1"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;What is Open Data?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module1/#/id/co-01\" target=\"_blank\">What is Open Data?</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -55,6 +63,13 @@
     "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.</p><p>In this module, we explore how governments, businesses and individuals are using open data to create new value.</p>",
     "displayTitle": "Unlocking value from open data",
     "title": "Unlocking value from open data",
+    "_trackingHub": {
+      "_pageID": "ODI_2"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -69,12 +84,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_2"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Unlocking value from open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module2/\" target=\"_blank\">Unlocking value from open data</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -94,6 +110,13 @@
     "body": "<p>Understanding successful approaches can help unlock the value of open data.</p><p>This module explores the benefits of&nbsp;active leadership and engagement&nbsp;and&nbsp;how to implement&nbsp;culture change.&nbsp;</p><p>&nbsp;</p>",
     "displayTitle": "Open data: agent of change",
     "title": "Open data: agent of change",
+    "_trackingHub": {
+      "_pageID": "ODI_3"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -108,12 +131,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_3"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Open data: agent of change&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module3/\" target=\"_blank\">Open data: agent of change</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -133,6 +157,13 @@
     "body": "<p>In order for data to be open, it should be accessible and licensed for anyone to access, use and share.</p><p>This module will discuss the which&nbsp;types of licenses can unlock the value of open data and how to provide for open data licensing in the tender, procurement and contracting lifecycle.&nbsp;</p>",
     "displayTitle": "Why do we need to license?",
     "title": "Why do we need to license?",
+    "_trackingHub": {
+      "_pageID": "ODI_4"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -147,12 +178,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_4"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Why do we need to license?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module4/\" target=\"_blank\">Why do we need to license?</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -172,6 +204,13 @@
     "body": "<p>There are a number of community-based standards and quality marques that can help you assess how usable data is.</p><p>In this module we will explore what makes data usable and how standards help increase the usability of data.&nbsp;</p>",
     "displayTitle": "What makes quality open data",
     "title": "What makes quality open data",
+    "_trackingHub": {
+      "_pageID": "ODI_5"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -186,12 +225,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_5"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;What makes quality open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module5/\" target=\"_blank\">What makes quality open data</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -211,6 +251,13 @@
     "body": "<p>Open data communities need to be built and success stories communicated. Together, these will help more people understand the benefits of open data.</p><p>In this module we will discuss the criteria for measuring success and the importance of being demand-focused.&nbsp;</p>",
     "displayTitle": "Measuring success for open data ",
     "title": "Measuring success for open data ",
+    "_trackingHub": {
+      "_pageID": "ODI_6"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -220,12 +267,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_6"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Measuring success for open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module6/\" target=\"_blank\">Measuring success for open data</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -245,6 +293,13 @@
     "body": "<p>Open data must be relevant, up-to-date and accessible in order to be useful.</p><p>In this module we will explore&nbsp;how to make sense of sustainability, why this matters to you and what to look for in sustainable open datasets.&nbsp;</p>",
     "displayTitle": "Why should we worry about sustainability?",
     "title": "Why should we worry about sustainability?",
+    "_trackingHub": {
+      "_pageID": "ODI_7"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -259,12 +314,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_7"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Why should we worry about sustainability?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module7/\" target=\"_blank\">Why should we worry about sustainability?</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -284,6 +340,13 @@
     "body": "<p>A platform is a major piece of software on which smaller pieces of software and content can be run.&nbsp;</p><p>In this module we will recognise, evaluate and understand the importance of&nbsp;open data platforms.&nbsp;</p>",
     "displayTitle": "Getting to grips with platforms",
     "title": "Getting to grips with platforms",
+    "_trackingHub": {
+      "_pageID": "ODI_8"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -298,12 +361,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_8"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Getting to grips with platforms&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module8/\" target=\"_blank\">Getting to grips with platforms</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -323,6 +387,13 @@
     "body": "<p>The &#39;format&#39; of an open dataset refers to the way in which the data is structured and made available for humans and machines.Choosing the right format helps ensure the data can by simply managed and reused.&nbsp;</p><p>In the module we will explore why formats matter and access different open data formats.</p>",
     "displayTitle": "Choosing the right format for open data",
     "title": "Choosing the right format for open data",
+    "_trackingHub": {
+      "_pageID": "ODI_9"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -337,12 +408,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_9"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Choosing the right format for open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module9/\" target=\"_blank\">Choosing the right format for open data</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -362,6 +434,13 @@
     "body": "<p>Assessing how useful open data is can vary depending on the domain and the content.&nbsp;</p><p>In this module we look at the 5 Stars of linked open data and discover how this can be used to measure the technical usability of data.</p>",
     "displayTitle": "How useful is my data?",
     "title": "How useful is my data?",
+    "_trackingHub": {
+      "_pageID": "ODI_10"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -376,12 +455,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_10"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;How useful is my data?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module10/\" target=\"_blank\">How useful is my data?</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -401,6 +481,13 @@
     "body": "<p>Data containing errors leads to stories containing errors. Before any analysis can take place, a data scientist needs to be able to identify and remove them from data.</p><p>This module looks at common errors and useful tools to remove them.</p>",
     "displayTitle": "How to clean your data",
     "title": "How to clean your data",
+    "_trackingHub": {
+      "_pageID": "ODI_11"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -415,12 +502,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_11"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;How to clean your data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module11/\" target=\"_blank\">How to clean your data</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -440,6 +528,13 @@
     "body": "<p>&lsquo;Open data&rsquo; does not only mean datasets available to download. The majority of data available on the Web is hidden from the human eye.</p><p>In this module we will explore what benefits hidden data can provide and how to locate and obtain hidden data.</p>",
     "displayTitle": "Finding hidden data on the Web",
     "title": "Finding hidden data on the Web",
+    "_trackingHub": {
+      "_pageID": "ODI_12"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -454,12 +549,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_12"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Finding hidden data on the Web&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module12/\" target=\"_blank\">Finding hidden data on the Web</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -479,6 +575,13 @@
     "body": "<p>Imagine you only had the raw data, all open, all usable and all linked together in a network or &#39;web&#39; of data.</p><p>In this module, we explore&nbsp;the web of open linked data and look&nbsp;at how the 5 Stars of linked open data provides a roadmap for achieving this vision.</p>",
     "displayTitle": "Linking up the web of data",
     "title": "Linking up the web of data",
+    "_trackingHub": {
+      "_pageID": "ODI_13"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
@@ -493,12 +596,13 @@
         }
       ]
     },
-    "_trackingHub": {
-      "_pageID": "ODI_13"
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Linking up the web of data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module13/\" target=\"_blank\">Linking up the web of data</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+    "_ODILicence": {
+      "_items": []
     }
   }
 ]
