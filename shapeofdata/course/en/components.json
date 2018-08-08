@@ -1,0 +1,682 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The shape of data",
+    "displayTitle": "The shape of data",
+    "body": "<p>Data, it turns out, has shape. That shape has meaning.</p><p>The shape of data tells you everything you need to know about your data from its obvious features to its deepest secrets.</p><p>This module looks at some of the key methods to look at the shape and characteristics of quantitative&nbsp;(numeric) data including:</p><ul><li>Averages</li><li>5 number summary</li><li>Distributions and histograms</li></ul><p>Interactive exercises will take you through how to use the free Tableau Public tool to examine the shape of data.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5b6aa19df3aa7b05530a1a25",
+    "_parentId": "5b6aa19cf3aa7b05530a1a24",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Outliers and robustness",
+    "displayTitle": "",
+    "body": "<p>Take the following list of numbers, where two numbers have been added to the list from previously.</p><p>3, 5, 8, 10, 13, 13, 18, <strong>21, 104</strong></p><p>We can clearly see that there is now one extreme value in the list (104). This value is commonly referred to as an outlier as it doesn&#39;t fit the &#39;pattern&#39; of the rest of the numbers.</p>",
+    "instruction": "",
+    "_id": "5b6aa890f3aa7b05530a1a32",
+    "_parentId": "5b6aa889f3aa7b05530a1a31",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Getting started with averages in tableau",
+    "displayTitle": "Getting started with averages in tableau",
+    "body": "<p>Follow the video below to help you get started exploring the concepts above in Tableau public. The dataset is available for <a href=\"course/en/assets/3687708cc4b27069f1250dfed734fb832a65c2b1.csv\" target=\"_blank\">download here</a>.</p><p>To see written instructions, please turn captions on in your language from the &quot;<strong>CC</strong>&quot; control in the video.</p>",
+    "instruction": "",
+    "_id": "5b6ac4c8f3aa7b05530a1a50",
+    "_parentId": "5b6ac4c2f3aa7b05530a1a4f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/283905521",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "0%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b6aa1c7f3aa7b05530a1a26",
+    "_parentId": "5b6aa19cf3aa7b05530a1a24",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/47a7edc1dbb6b63108b14ffb42991d484270d0f5.png",
+      "small": "course/en/assets/47a7edc1dbb6b63108b14ffb42991d484270d0f5.png",
+      "attribution": "<a href=\"http://dlab.or.tz\" target=\"_blank\">Tanzania dLab</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The box-and-whisker plot",
+    "displayTitle": "The box-and-whisker plot",
+    "body": "<p>The box-and-whisker plot is a way to visually show the <strong>location</strong>, <strong>spread</strong> and <strong>range</strong> of the data using the five-number summary, as shown.</p><p>The <strong>whiskers</strong> show the minimum and maximum values and thus show the <strong>range</strong> of the data.</p><p>The <strong>box</strong> is plotted between the lower and upper quartiles. The box shows the <strong>interquartile range</strong> (<strong>IQR</strong>) or <strong>middle 50%</strong> and is the most significant basic robust measure of scale.</p><p>The size of the IQR boxes also show the <strong>spread </strong>of the data, with a smaller box representing a smaller spread and vice-versa.</p>",
+    "instruction": "",
+    "_id": "5b6b0a85f3aa7b05530a1ae5",
+    "_parentId": "5b6ab0a7f3aa7b05530a1a37",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The distribution of data",
+    "displayTitle": "The distribution of data",
+    "body": "<p>Another important aspect to consider is the distribution of data.&nbsp;It is always a good practice to know the distribution of your data before analysing it further.&nbsp;Certain analyses require certain distributions.&nbsp;</p><p>The examples here show different types of distributions of data.&nbsp;</p>",
+    "instruction": "Read more about each below:",
+    "_id": "5b6acb26f3aa7b05530a1a55",
+    "_parentId": "5b6ac847f3aa7b05530a1a53",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Normal distribution",
+        "body": "<p>A normal distribution (or bell curve) is a perfectly symmetrical distribution where the mean, median and mode are all the same value.&nbsp;</p><p>Many things closely follow a Normal Distribution:</p><ul><li>heights of people</li><li>size of things produced by machines</li><li>errors in measurements</li><li>blood pressure</li><li>marks on a test</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Negatively (left) skewed",
+        "body": "<p>A negatively skewed distribution is influenced by outliers at the lower end of the data&#39;s range.&nbsp;This means that the mean would be less than the median and mode. It seems counterintuitive that the majority of the data is on the higher side, but it is called negative skew.&nbsp;</p><p>Examples of negatively skewed data include:</p><ul><li>Retirement age</li><li>Book prices</li><li>Age of death (in developed countries)</li></ul><p>&nbsp;</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Positively (right) skewed",
+        "body": "<p>A positively&nbsp;skewed distribution is influenced by outliers at the higher end of the data&#39;s range.&nbsp;In this case, the mean is greater than the mode or median.</p><p>Examples of positively&nbsp;skewed data include:</p><ul><li>Capital project costs</li><li>Household income</li><li>Property prices</li></ul><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Non-normal (jumbled up) data",
+        "body": "<p>Data with a non-normal distribution can occur.&nbsp;</p><p>There are still pieces of analysis that can be performed on the data, but these are different from the distributions covered in this module.</p><p>Examples include:</p><ul><li>Cost of healthcare</li><li>Crime rate data</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Averages",
+    "displayTitle": "Averages",
+    "body": "<p>Not all averages are the same.&nbsp;</p><p>Often &quot;average&quot; refers to the&nbsp;arithmetic mean, the sum of the numbers divided by how many numbers are being averaged. When analysing data it is important to understand the difference between&nbsp;mean,&nbsp;median, and&nbsp;mode.</p>",
+    "instruction": "",
+    "_id": "5b6aa4eef3aa7b05530a1a2c",
+    "_parentId": "5b6aa498f3aa7b05530a1a2b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Mean",
+        "body": "<p>The most common type of average is the arithmetic mean.</p><p>The arithmetic mean, often simply called the mean, is calculated by adding up all the numbers in a list and dividing by the number of items in the list.</p><p>For example take the following list of numbers:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>The sum of the number is <strong>70</strong>, there are <strong>7 </strong>items in the list. Therefor the mean is <strong>10&nbsp;</strong>(70 / 7).</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Median",
+        "body": "<p>The median is middle number of the list where the numbers are ranked in order.&nbsp;</p><p>For example take the following list of numbers that are already ranked in ascending order:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>There are 7 numbers, the middle number will be the 4th one in the list. Therefor the median of this list of numbers is <strong>10</strong>.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Mode",
+        "body": "<p>The mode is the most frequently occurring number in the list.&nbsp;</p><p>Taking our list of numbers:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>The most frequently occurring number is <strong>13</strong>.</p><p>It may happen that there are two or more numbers which occur equally often and more often than any other number. In this case there is no agreed definition of mode. Some&nbsp;say they are all modes and some say there is no mode.</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>Data, it turns out, has shape. That shape has meaning.</p><p>The shape of data tells you everything you need to know about your data from its obvious features to its deepest&nbsp;secrets.</p><p>This module looks at some of the key methods to look at the shape and characteristics of quantitative&nbsp;(numeric) data including:</p><ul><li>Averages</li><li>5 number summary</li><li>Distributions and histograms</li></ul><p>By the end of this module you should be confident in unlocking the shape of data.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5b6ae2eaf3aa7b05530a1aa2",
+    "_parentId": "5b6ae2dff3aa7b05530a1aa1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The five-number summary",
+    "displayTitle": "The five-number summary",
+    "body": "<p>The five-number summary provides a concise summary of the&nbsp;distribution&nbsp;of numeric data. Reporting five numbers avoids the need to decide on the most appropriate summary statistic. The five-number summary gives information about the <strong>location</strong>, <strong>spread</strong>&nbsp;and <strong>range</strong>&nbsp;of the data.</p><p>The five-number summary consists of the following:</p><ol><li>the&nbsp;<strong>sample minimum</strong> (smallest value)</li><li>the&nbsp;<strong>lower quartile</strong>&nbsp;(value &frac14; through the list)</li><li>the&nbsp;<strong>median</strong>&nbsp;(middle value in the list)</li><li>the&nbsp;<strong>upper quartile</strong>&nbsp;(value&nbsp;&frac34;&nbsp;through the list)</li><li>the&nbsp;<strong>sample maximum</strong>&nbsp;(largest value)</li></ol>",
+    "instruction": "",
+    "_id": "5b6ab1b8f3aa7b05530a1a39",
+    "_parentId": "5b6aab1ff3aa7b05530a1a35",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Example",
+        "body": "<p>Taking our 9 number list (3, 5, 8, 10, 13, 13, 18,&nbsp;21, 104), the five-number summary would be as follows:</p><ol><li>Minimum: <strong>3</strong></li><li>Lower quartile:&nbsp;<strong>6.5&nbsp;</strong>(half way between 5 and 8)</li><li>Median:&nbsp;<strong>13</strong></li><li>Upper quartile: <strong>19.5</strong>&nbsp;(half way between 18 and 21)</li><li>Maximum: <strong>104</strong></li></ol>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Creating your first dashboard in Tableau",
+    "displayTitle": "Creating your first dashboard in Tableau",
+    "body": "<p>If you have completed the above exercise on one of the datasets then you should now be able to create your first interactive dashboard in Tableau. The video below shows you how to do this from the result of using the &quot;average heights&quot; dataset (dataset 3).&nbsp;</p>",
+    "instruction": "",
+    "_id": "5b6adb13f3aa7b05530a1aa0",
+    "_parentId": "5b6adac5f3aa7b05530a1a9f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/283926313",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "0%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>The following table compares the averages from the previous list to this new list:</p><table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px\"><tbody><tr><td>&nbsp;</td><td>Previous list</td><td>New list</td><td>Change</td></tr><tr><td>Mean</td><td>10</td><td>21</td><td>+11</td></tr><tr><td>Median</td><td>10</td><td>13</td><td>+3</td></tr><tr><td>Mode</td><td>13</td><td>13</td><td>0</td></tr></tbody></table><p>We can see here that the mean is badly affected by outliers, thus the mean is the <strong>least robust</strong> average. The median has <strong>medium robustness</strong> and the mode is the <strong>most robust&nbsp;</strong>with no change.</p>",
+    "instruction": "",
+    "_id": "5b6aaae7f3aa7b05530a1a34",
+    "_parentId": "5b6aa889f3aa7b05530a1a31",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p><strong>Dataset 1</strong></p><p>The salaries of the New York Bulls soccer team.</p><p><a class=\"button\" href=\"course/en/assets/6a5c7f7b9ba6c70ec0f04020cb3aec6c8a3d8fe4.csv\" target=\"_blank\">Download dataset 1</a></p><p><strong>Dataset 2</strong></p><p>The salaries of the Manchester City football team.</p><p><a class=\"button\" href=\"http://course/en/assets/2441fac6ef118057c77c533b8216f81f55eef982.csv\" target=\"_blank\">Download dataset 2</a></p><p><strong>Dataset 3</strong></p><p>Average heights of men in different countries.</p><p><a class=\"button\" href=\"course/en/assets/139f100c9ddcaa4403abf1561b40d845776d8f0c.csv\" target=\"_blank\">Download dataset 3</a></p>",
+    "instruction": "",
+    "_id": "5b6ad727f3aa7b05530a1a98",
+    "_parentId": "5b6ad5aaf3aa7b05530a1a96",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Using histograms",
+    "displayTitle": "Using histograms",
+    "body": "<p>A histogram is a plot that lets you discover, and show, the underlying frequency distribution (shape) of a set of&nbsp;continuous&nbsp;data. In a histogram the data is split up into intervals, called bins. For example the ages of everyone in a town could be split into bins of ten years each. Choice of bin width can influence&nbsp;the apparent distribution of the data so should be chosen with care.</p>",
+    "instruction": "",
+    "_id": "5b6ad36ef3aa7b05530a1a77",
+    "_parentId": "5b6ad25af3aa7b05530a1a74",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_items": [
+      {
+        "title": "Making a histogram in tableau",
+        "body": "<p>Following on from the previous video:</p><ol><li>Create a new sheet</li><li>Drag your measure into the &quot;Rows&quot; box</li><li>From the show me click the graph that looks like a normal distribution</li></ol><p>Note that you can right click your measure and select&nbsp;<strong>create&nbsp;</strong>-&gt;&nbsp;<strong>bins</strong>&nbsp;to create your own bins. This will create a new dimension you can replace the current columns definition with.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b6ab218f3aa7b05530a1a3a",
+    "_parentId": "5b6aab1ff3aa7b05530a1a35",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f21882f3949741cad201707e937f51a325e1b7ca.jpg",
+      "small": "course/en/assets/f21882f3949741cad201707e937f51a325e1b7ca.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/sheila_sund/14891008391\" target=\"_blank\">Sheila Sund</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b6b0abbf3aa7b05530a1ae6",
+    "_parentId": "5b6ab0a7f3aa7b05530a1a37",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/97302230b50ad006a958d82900985508d759ebeb.png",
+      "small": "course/en/assets/97302230b50ad006a958d82900985508d759ebeb.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-one",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b6ae2edf3aa7b05530a1aa3",
+    "_parentId": "5b6ae2dff3aa7b05530a1aa1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "small": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Try it yourself!",
+    "displayTitle": "",
+    "body": "<p>Why not try out some of the techniques outlined in this lesson on your own data? There are also a series of datasets provided here.&nbsp;</p><p>In tableau select one of the datasets and create the following:</p><ol><li>A sheet containing the mean of the data</li><li>A sheet containing the median of the data</li><li>A sheet containing the box-and-whisker plot</li><li>A sheet containing the histrogram</li></ol>",
+    "instruction": "",
+    "_id": "5b6ad67ff3aa7b05530a1a97",
+    "_parentId": "5b6ad5aaf3aa7b05530a1a96",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b6ad26ef3aa7b05530a1a76",
+    "_parentId": "5b6ad25af3aa7b05530a1a74",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6d728e2616f7376be42360c34b666d5eda3c9d93.jpg",
+      "small": "course/en/assets/6d728e2616f7376be42360c34b666d5eda3c9d93.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b6acb29f3aa7b05530a1a56",
+    "_parentId": "5b6ac847f3aa7b05530a1a53",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d311763519ddbad72b7a18158055a27705093b32.jpeg",
+      "small": "course/en/assets/d311763519ddbad72b7a18158055a27705093b32.jpeg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5b6aa50cf3aa7b05530a1a2d",
+    "_parentId": "5b6aa498f3aa7b05530a1a2b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/401ea564f28461094bebcb51696a22b549c3c707.png",
+      "small": "course/en/assets/401ea564f28461094bebcb51696a22b549c3c707.png",
+      "attribution": "<a href=\"https://en.wikipedia.org/wiki/Average#/media/File:Comparison_mean_median_mode.svg\" target=\"_blank\">Cmglee</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  }
+]

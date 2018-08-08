@@ -1,0 +1,90 @@
+{
+  "47a7edc1dbb6b63108b14ffb42991d484270d0f5.png": {
+    "title": "Dlab map logo",
+    "description": "Dlab map logo",
+    "source": "https://dlab.or.tz/",
+    "licence": "All rights reserved",
+    "attribution": "dlab",
+    "tags": []
+  },
+  "7120bb7ad02055a11589656852c821cae30bf616.png": {
+    "title": "Clipboard (NEW)",
+    "description": "Clipboard (NEW)",
+    "source": "https://theodi.org",
+    "licence": "CC-BY-SA",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "f21882f3949741cad201707e937f51a325e1b7ca.jpg": {
+    "title": "Numbers on boats",
+    "description": "Numbers on boats",
+    "source": "https://www.flickr.com/photos/sheila_sund/14891008391",
+    "licence": "CC-BY",
+    "attribution": "Sheila Sund",
+    "tags": []
+  },
+  "97302230b50ad006a958d82900985508d759ebeb.png": {
+    "title": "Box plot",
+    "description": "Box plot",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "3687708cc4b27069f1250dfed734fb832a65c2b1.csv": {
+    "title": "listof9.csv",
+    "description": "List of 9 datapoint ",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "d311763519ddbad72b7a18158055a27705093b32.jpeg": {
+    "title": "Distributions in data",
+    "description": "Distributions in data",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "6d728e2616f7376be42360c34b666d5eda3c9d93.jpg": {
+    "title": "Basic histogram",
+    "description": "Basic histogram",
+    "source": "https://theodi.org",
+    "licence": "CC-BY",
+    "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "139f100c9ddcaa4403abf1561b40d845776d8f0c.csv": {
+    "title": "average-height-of-men-for-selected-countries.csv",
+    "description": "average-height-of-men-for-selected-countries",
+    "source": "https://ourworldindata.org/human-height",
+    "licence": "CC-BY",
+    "attribution": "University of Tuebingen",
+    "tags": []
+  },
+  "2441fac6ef118057c77c533b8216f81f55eef982.csv": {
+    "title": "Manchester City Salaries",
+    "description": "Manchester City Salaries",
+    "source": "",
+    "licence": "All rights reserved",
+    "attribution": "",
+    "tags": []
+  },
+  "6a5c7f7b9ba6c70ec0f04020cb3aec6c8a3d8fe4.csv": {
+    "title": "NYRedBullsSalaries.csv",
+    "description": "NYRedBullsSalaries",
+    "source": "",
+    "licence": "All rights reserved",
+    "attribution": "",
+    "tags": []
+  },
+  "401ea564f28461094bebcb51696a22b549c3c707.png": {
+    "title": "averages comparison",
+    "description": "averages comparison",
+    "source": "https://en.wikipedia.org/wiki/Average#/media/File:Comparison_mean_median_mode.svg",
+    "licence": "CC-BY-SA",
+    "attribution": "Cmglee",
+    "tags": []
+  }
+}
