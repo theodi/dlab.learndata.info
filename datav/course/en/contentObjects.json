@@ -1,0 +1,970 @@
+[
+  {
+    "title": "1. Data in policy making",
+    "displayTitle": "1. Data in policy making",
+    "body": "<p>Policymakers sometimes struggle to see how data can be used to create impact in the world. They know that open data is relevant to the digital economy and building better public services but there are other ways in which data can be used to achieve policy goals. This module looks at some of the design patterns for using data as part of the policy process.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6d6366295191052e62a3e9",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/cea53ba894f73eac454fb2f7cde74ce401909d9b.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false
+    }
+  },
+  {
+    "title": "2. The four step process",
+    "displayTitle": "2. The four step process",
+    "body": "<p>There are many stages and challenges in using data to inform policy. This module introduces a four stage process that helps generate stories that help clearly communicate and inform policy decisions. This module also looks at the time required for each stage and what should be prioritised.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c170b36b131054d3a4599",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/301936c4e7d37e6647647b3c3e5a305f0ae8a56f.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Explain the data storytelling process",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Plan a data storytelling project"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;The four step process&quot;, is a derivative of &quot;<a href=\"http://findingstories.learndata.info/#/id/57b1b369e396ef981f39ea28\" target=\"_blank\">A four step approach to storytelling with data</a>&quot; by&nbsp;the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "3. Understanding your rights to use data",
+    "displayTitle": "3. Understanding your rights to use data",
+    "body": "<p>When working with data, it&#39;s&nbsp;critical to understand your rights and your responsibility in ensuring legal and ethical use of data. This module introduces the&nbsp;aspects of law that cover the use of content in different scenarios.&nbsp;</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c170b36b131054d3a459c",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/97d34793bbe8926e04194b6c543ac459b473764c.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Describe how copyright and licensing relate to open data"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Identify instances of open licenses and effective application"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Explain how copyright exceptions affect the use of data"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Understanding your rights to use data&quot;, is a derivative of &quot;<a href=\"http://findingstories.learndata.info/#/id/57b441b1e396ef981f39ebc8\" target=\"_blank\">Understanding your rights to use data</a>&quot; by&nbsp;the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "4. Ethics",
+    "displayTitle": "4. Ethics",
+    "body": "<p>Data ethics is a rapidly emerging area. Increasingly, those collecting, sharing and working with data are exploring the ethics of their practices and, in some cases, being forced to confront those ethics in the face of public criticism.</p><p>This module looks at the emergence of the area, some of the key case studies and tools to help you be more ethical in your data processing.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c197c36b131054d3a4a0a",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/888393c963a78d6de792c02aaf18ce57c56e1466.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false
+    }
+  },
+  {
+    "title": "5. Gathering data",
+    "displayTitle": "5. Gathering data",
+    "body": "<p dir=\"ltr\">Data plays a key role in storytelling, but not all data is easy to find. This module looks at where you can start to find data and how to find data that&#39;s hidden on the web.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c170b36b131054d3a45a0",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/2164576f217243b4bc9bfb61f6c5f8a5b9bdbc87.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Explain the difference between downloadable and hidden data"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Find downloadable data"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Find hidden data"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Describe the benefit of using hidden data"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Gathering data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module12/\" target=\"_blank\">Finding hidden data on the Web</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": [
+        {
+          "title": "",
+          "description": "<p>&quot;Gathering data&quot; by&nbsp;<a href=\"https://theodi.org\">Open Data Institute</a> is licensed under a<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+          "_graphic": {
+            "alt": "",
+            "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
+          }
+        },
+        {
+          "title": "Attribution requirements",
+          "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\" target=\"_blank\">here</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Content usage",
+          "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Exclusions",
+          "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "No warranty",
+          "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the ODEdu project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      ]
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "6. Organising data",
+    "displayTitle": "6. Organising data",
+    "body": "<p dir=\"ltr\">Having gathered data from&nbsp;different sources, an essential skill of a data worker is to organise that data so that it&#39;s&nbsp;ready to be processed. When data is properly managed, it is much easier to answer&nbsp;fundamental questions and conduct analysis. Correctly managed data also ensures you aren&#39;t making decisions based on faulty evidence. Knowing how to structure and organise data in a spreadsheet is fundamental to ensuring consistency in your data.&nbsp;</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c170b36b131054d3a459d",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/55fdaceae3e61bfad0b68be0efcf8b4e312e1342.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Identify good and bad spreadsheet layouts"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Create good column titles for a spreadsheet"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Use header rows and freeze functions in spreadsheets"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Use different data types in a spreadsheet"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Organising data&quot;, is a derivative of &quot;<a href=\"http://findingstories.learndata.info/#/id/57c198b7c8c479d7402de27e\" target=\"_blank\">Organising data</a>&quot; by&nbsp;the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "7. Cleaning data",
+    "displayTitle": "7. Cleaning data",
+    "body": "<p dir=\"ltr\">Data containing errors leads to stories containing errors. Before any analysis can take place, a data scientist needs to be able to identify and remove them from data. This module looks at common errors and useful tools to remove them.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c170b36b131054d3a4596",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Explain how and why data needs to be cleaned"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Recognise a number of errors in data"
+        },
+        {
+          "level": "practitioner",
+          "credits": 10,
+          "outcome": "Clean a dataset"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Cleaning data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module11/#/id/co-01\" target=\"_blank\">How to clean your data</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": [
+        {
+          "title": "",
+          "description": "<p>&quot;Cleaning data&quot; by&nbsp;<a href=\"https://theodi.org\">Open Data Institute</a> is licensed under a<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+          "_graphic": {
+            "alt": "",
+            "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
+          }
+        },
+        {
+          "title": "Attribution requirements",
+          "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\" target=\"_blank\">here</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Content usage",
+          "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Exclusions",
+          "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "No warranty",
+          "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the ODEdu project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      ]
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "8. The shape of data",
+    "displayTitle": "8. The shape of data",
+    "body": "<p>Data, it turns out, has shape. That shape has meaning.</p><p>The shape of data tells you everything you need to know about your data from its obvious features to its deepest secrets.</p><p>This module looks at some of the key methods to look at the shape and characteristics of quantitative&nbsp;(numeric) data.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6aa19cf3aa7b05530a1a22",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/5ed9d6e8096972300c5f48a62bf8afc0262e02e2.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "9. Seeing through a world of numbers",
+    "displayTitle": "9. Seeing through a world of numbers",
+    "body": "<p>Public spending, health risks, environmental disasters, who is rich, who is poor, pensions, the best and worst schools and hospitals, immigration - life comes in numbers. The trick is seeing through them.</p><p>To some numbers can be intimidating. The can also create illusions and lead us to see what is not actually there. This module reveals what the numbers really show and exposes the illusions.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c19bf36b131054d3a4a10",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/0beb228fb743b462edfe0f4ba9a81ff55c1479d1.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": false
+    }
+  },
+  {
+    "title": "10. Trends in data",
+    "displayTitle": "10. Trends in data",
+    "body": "<p>One of the key aspects of data analysis is that of spotting trends. Trends give an indication of the direction in which something is changing and can also help us predict what is going to happen next. However when trying to predict or classify we need to be confident our prediction is correct. This module looks at&nbsp;some of techniques that can be used to increase you confidence in making predictions and classifications from data.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c19fe36b131054d3a4a13",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/8f277953d14cfb1549be9835720b0660f89f367f.jpeg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "11. Filtering and pivot tables",
+    "displayTitle": "11. Filtering and pivot tables",
+    "body": "<p dir=\"ltr\">Once data is clean, it&#39;s ready for analysis; but this analysis doesn&#39;t have to use complex statistical methods. A modern data worker should be comfortable using common analysis techniques such as pivot tables, and this module shows you how.&nbsp;</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c170b36b131054d3a459e",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/42cae611b9faff51566fabe51f7bfb9615f01211.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Apply filters to a spreadsheet"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Sort data in a spreadsheet"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Apply formula to a spreadsheet"
+        },
+        {
+          "level": "practitioner",
+          "credits": 10,
+          "outcome": "Create a set of analytics for a spreadsheet"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Filtering and pivot tables&quot;, adapted from &quot;<a href=\"http://tanzania.learndata.info/eLearning/#/id/57d9233c4d7b7e82691e3c59\" target=\"_blank\">Analysing data</a>&quot; by&nbsp;<a href=\"https://theodi.org\">Open Data Institute</a>&nbsp;/ <a href=\"http://www.worldbank.org/\" target=\"_blank\">World Bank</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "12. Data visualisation formats",
+    "displayTitle": "12. Data visualisation formats",
+    "body": "<p dir=\"ltr\">A modern data work should be comfortable&nbsp;with many different types of visualisation, from common graphs to advanced statistical plots to geographic representations. Learn more about the options for bringing your data to life in this module.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c170b36b131054d3a4598",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/ca044aca014a764b789ad1c8c4481eaa0e2ef182.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Describe a number data visualisations and their usage"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Choose an appropriate visualisation for data"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Data visualisation formats&quot;, is a derivative of &quot;<a href=\"http://findingstories.learndata.info/#/id/57adb0cce396ef981f39e9d4\" target=\"_blank\">Data visualisation formats</a>&quot; by&nbsp;the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "13. Data visualisation best practice",
+    "displayTitle": "13. Data visualisation best practice",
+    "body": "<p>Picking the right visualisation is only the first part of telling effective stories. Plotting the right data in the correct way, making good use of colour and other visual cues is essential to making the story &ldquo;pop out&rdquo; at the audience.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c170b36b131054d3a459a",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/d2445a55c3baba4530ca53aef667079d65b9b497.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Describe how the human brain interprets visually presented data"
+        },
+        {
+          "level": "practitioner",
+          "credits": 5,
+          "outcome": "Use colour and pop-out to help clearly present information"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Data visualisation best practice&quot;, is a derivative of &quot;<a href=\"http://findingstories.learndata.info/#/id/57b2c1c9e396ef981f39ea8c\" target=\"_blank\">Visualisation best practice</a>&quot; by&nbsp;the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "14. Visual deception",
+    "displayTitle": "14. Visual deception",
+    "body": "<p dir=\"ltr\">The use of visual deception can create intrigue, but it can also&nbsp;be used to mislead. A modern data worker, especially those in policy,&nbsp;should be able to choose deception techniques that engage and inform, and avoid those which intentionally mislead.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c170b36b131054d3a4597",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/c5ee47a1a79ee4e989b5d26e2b71c7e1892d1e7d.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "strategist",
+          "credits": 10,
+          "outcome": "Identify a number of deception techniques in visulisations"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Visual deception&quot;, is a derivative of &quot;<a href=\"http://findingstories.learndata.info/#/id/57ac437ce396ef981f39e8fb\" target=\"_blank\">Visual deception</a>&quot; by&nbsp;the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "15. Narrating your story",
+    "displayTitle": "15. Narrating your story",
+    "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision-makers. This means creating a memorable story which not only requires an effective visualisation but an engaging narrative.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6c170b36b131054d3a459f",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/60f5321e92f1c6ea08493dd85e5da0f6b47e654b.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "List the steps writing a narrative"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Write effective headlines"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Identify techniques to help share your story"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Narrating your story&quot;, is a derivative of &quot;<a href=\"http://findingstories.learndata.info/#/id/57c199cfc8c479d7402de28b\" target=\"_blank\">Narrating your story</a>&quot; by&nbsp;the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a>, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY&nbsp;4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "16. Open data advocacy",
+    "displayTitle": "16. Open data advocacy",
+    "body": "<p dir=\"ltr\">Opening data can be valuable for any organisation. Whether to drive innovation in the business, develop a clearer picture of operations or improve products and services, a growing number of private and public sector organisations now benefit from publishing and using open data.</p><p dir=\"ltr\">However, opening data might require a change in the culture of an organisation. Most organisations are configured to protect their data resources, even when the benefits of openness outweigh the costs. The key to overcoming this resistance is clear: effective communication of the benefits that open data can bring.</p><p dir=\"ltr\">This module will prepare you to deliver a tailored pitch for open data that highlights value and addresses risks.</p><p dir=\"ltr\">In this module we&#39;ll explore how to:</p><ul><li>Structure the perfect pitch</li><li>Identify different audiences for your pitch</li><li>Tailor your pitch to different audiences</li></ul>",
+    "_classes": "hidden",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b6d88cf295191052e62a4c4",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "pioneer",
+          "credits": 5,
+          "outcome": "Structure the perfect pitch"
+        },
+        {
+          "level": "pioneer",
+          "credits": 5,
+          "outcome": "Identify different audiences for your pitch"
+        },
+        {
+          "level": "pioneer",
+          "credits": 5,
+          "outcome": "Tailor your pitch to different audiences"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]
