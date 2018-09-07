@@ -51,6 +51,20 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
+    "_id": "5b9140a270ae31053136c55a",
+    "_parentId": "5b9140a270ae31053136c558",
+    "_type": "article"
+  },
+  {
+    "title": " ",
+    "displayTitle": " ",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
     "_id": "5b6c170b36b131054d3a45a1",
     "_parentId": "5b6c170b36b131054d3a4597",
     "_type": "article"
@@ -277,6 +291,20 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
+    "_id": "5b9140a270ae31053136c55c",
+    "_parentId": "5b9140a270ae31053136c558",
+    "_type": "article"
+  },
+  {
+    "title": " ",
+    "displayTitle": " ",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
     "_id": "5b6d88cf295191052e62a4c9",
     "_parentId": "5b6d88cf295191052e62a4c4",
     "_type": "article"
@@ -337,6 +365,20 @@
       "_classes": "",
       "_percentInviewVertical": 50
     }
+  },
+  {
+    "title": " ",
+    "displayTitle": " ",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b9140a270ae31053136c55d",
+    "_parentId": "5b9140a270ae31053136c558",
+    "_type": "article"
   },
   {
     "title": " ",

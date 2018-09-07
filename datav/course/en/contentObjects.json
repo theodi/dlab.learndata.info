@@ -798,8 +798,68 @@
     }
   },
   {
-    "title": "14. Visual deception",
-    "displayTitle": "14. Visual deception",
+    "title": "14. Mapping open data",
+    "displayTitle": "14. Mapping open data",
+    "body": "<p>This module explores digital maps: how open data can enhance maps; how to use maps&nbsp;in web sites and projects; and how to visualise and explore data with them.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5b9140a270ae31053136c558",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/dd448eba6939ee52c989ec2d5151d71c3858c5ac.png"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Explain the benefits of open mapping",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Select the appropriate technique to describe something on a map",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Create a number of different maps from open data",
+          "credits": 10,
+          "level": "practitioner"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "title": "15. Visual deception",
+    "displayTitle": "15. Visual deception",
     "body": "<p dir=\"ltr\">The use of visual deception can create intrigue, but it can also&nbsp;be used to mislead. A modern data worker, especially those in policy,&nbsp;should be able to choose deception techniques that engage and inform, and avoid those which intentionally mislead.</p>",
     "_classes": "",
     "pageBody": "",
@@ -848,8 +908,8 @@
     }
   },
   {
-    "title": "15. Narrating your story",
-    "displayTitle": "15. Narrating your story",
+    "title": "16. Narrating your story",
+    "displayTitle": "16. Narrating your story",
     "body": "<p dir=\"ltr\">A modern data scientist is expected to be a catalyst for change in an organisation. This requires not only performing complex data manipulation, but also being able to present the outcomes to senior level decision-makers. This means creating a memorable story which not only requires an effective visualisation but an engaging narrative.</p>",
     "_classes": "",
     "pageBody": "",

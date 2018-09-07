@@ -960,37 +960,9 @@
     ]
   },
   "e91c6759bf0c2ffded3781b0895c6629bae11edd.jpg": {
-    "title": "services_430x430.jpg",
-    "description": "services, delivery, demand",
-    "source": "https://www.shutterstock.com/image-vector/colored-paper-pointers-signs-navigation-mapvector-154597898",
-    "licence": "Shutterstock standard licence",
-    "attribution": "Leone_V",
-    "tags": [
-      {
-        "title": "Map",
-        "_id": "584808d54d7b7e82691e4bae"
-      },
-      {
-        "title": "Global",
-        "_id": "584802d14d7b7e82691e4ba1"
-      },
-      {
-        "title": "Cartoon",
-        "_id": "584800d44d7b7e82691e4b9b"
-      },
-      {
-        "title": "services",
-        "_id": "584ff7b44e62ce485eb145d2"
-      },
-      {
-        "title": "delivery",
-        "_id": "58bebc8bd084d5167a04ae32"
-      },
-      {
-        "title": "demand",
-        "_id": "58bebc8dd084d5167a04ae33"
-      }
-    ]
+    "title": "odi-5-accordian_large.jpg",
+    "description": "map",
+    "tags": []
   },
   "129d64c8646a967c58fe53c0e19103e1bc14f07e.jpg": {
     "title": "Hierarchy",
@@ -1393,6 +1365,14 @@
         "_id": "58bebca3d084d5167a04ae35"
       }
     ]
+  },
+  "2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg": {
+    "title": "map markers",
+    "description": "map markers",
+    "source": "https://www.fixmystreet.com/",
+    "licence": "CC-BY",
+    "attribution": "Fixmystreet",
+    "tags": []
   },
   "42b138ca58598195931fd55cd7d078d47f87a897.jpg": {
     "title": "Data code",
@@ -2020,6 +2000,54 @@
     "attribution": "The Open Data Institute",
     "tags": []
   },
+  "4861282fc5c236db76c8262421afba1bc2d70748.jpg": {
+    "title": "Dlab Full app icon",
+    "description": "Dlab Full app icon",
+    "source": "http://dlab.or.tz",
+    "licence": "All rights reserved",
+    "attribution": "Tanzania dLab",
+    "tags": []
+  },
+  "dd448eba6939ee52c989ec2d5151d71c3858c5ac.png": {
+    "title": "Tanzania map",
+    "description": "Tanzania map",
+    "source": "http://opendata.go.tz",
+    "licence": "CC-BY",
+    "attribution": "opendata.go.tz",
+    "tags": []
+  },
+  "add96cef0a182672fdf9c372eb2cdd4c81d87f6f.png": {
+    "title": "OpenStreetMap",
+    "description": "OpenStreetMap",
+    "source": "http://wiki.openstreetmap.org",
+    "licence": "CC-BY",
+    "attribution": "OpenStreetMap",
+    "tags": []
+  },
+  "cc0743d56044f6e585a51f71e14e270e49ecf74e.png": {
+    "title": "Road map of Dar es Salaam",
+    "description": "Road map of Dar es Salaam",
+    "source": "http://ansoncfit.com",
+    "licence": "CC-BY-NC-SA",
+    "attribution": "http://ansoncfit.com",
+    "tags": []
+  },
+  "168853c0a47147e13d2dc80a40342372a4a63874.png": {
+    "title": "Dar Es Salaam map",
+    "description": "Dar Es Salaam map",
+    "source": "http://www.openstreetmap.org/#map=19/-6.80164/39.25077",
+    "licence": "CC-BY",
+    "attribution": "Open Street Map contributors",
+    "tags": []
+  },
+  "280023e2795af132b2cb94521e4c1ce546174f30.png": {
+    "title": "Tanzania regions map",
+    "description": "Tanzania regions map",
+    "source": "https://en.wikipedia.org/wiki/File:Tanzania_regions.svg",
+    "licence": "CC0",
+    "attribution": "Gregor Aisch",
+    "tags": []
+  },
   "695142676da7c48878111f3e0cdfd728d9d05718.png": {
     "title": "Strategy head",
     "description": "Strategy",
@@ -2036,12 +2064,28 @@
     "attribution": "Freepik",
     "tags": []
   },
+  "b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg": {
+    "title": "Pin on a map",
+    "description": "Pin on a map",
+    "source": "http://www.shutterstock.com/pic-53095825.html",
+    "licence": "Shutterstock standard licence",
+    "attribution": "Mikael Damkier",
+    "tags": []
+  },
   "484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png": {
     "title": "Clipboard Black (NEW)",
     "description": "Clipboard Black (NEW)",
     "source": "https://theodi.org",
     "licence": "CC-BY-SA",
     "attribution": "The Open Data Institute",
+    "tags": []
+  },
+  "5e3b0399a855e644dd6649293dd580aafa7f0c9b.png": {
+    "title": "OpenStreetMap (430 x430)",
+    "description": "OSM Logo",
+    "source": "http://wiki.openstreetmap.org",
+    "licence": "CC-BY",
+    "attribution": "Open Street Map",
     "tags": []
   },
   "f21882f3949741cad201707e937f51a325e1b7ca.jpg": {
