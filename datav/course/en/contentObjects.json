@@ -493,7 +493,7 @@
   {
     "title": "8. The shape of data",
     "displayTitle": "8. The shape of data",
-    "body": "<p>Data, it turns out, has shape. That shape has meaning.</p><p>The shape of data tells you everything you need to know about your data from its obvious features to its deepest secrets.</p><p>This module looks at some of the key methods to look at the shape and characteristics of quantitative&nbsp;(numeric) data.</p>",
+    "body": "<p>Data, it turns out, has shape. That shape has meaning.</p><p>The shape of data tells you everything you need to know about your data from its obvious features to its deepest secrets.</p><p>This module looks at some of the key methods to discover&nbsp;the shape and characteristics of quantitative&nbsp;(numeric) data.</p>",
     "_classes": "",
     "pageBody": "",
     "linkText": "View",
@@ -537,7 +537,7 @@
   {
     "title": "9. Seeing through a world of numbers",
     "displayTitle": "9. Seeing through a world of numbers",
-    "body": "<p>Public spending, health risks, environmental disasters, who is rich, who is poor, pensions, the best and worst schools and hospitals, immigration - life comes in numbers. The trick is seeing through them.</p><p>To some numbers can be intimidating. The can also create illusions and lead us to see what is not actually there. This module reveals what the numbers really show and exposes the illusions.</p>",
+    "body": "<p>Public spending, health risks, environmental disasters, who is rich, who is poor, pensions, the best and worst schools and hospitals, immigration - life comes in numbers. The trick is seeing through them.</p><p>To some numbers can be intimidating. They can also create illusions and lead us to see what is not actually there. This module reveals what the numbers really show and exposes the illusions.</p>",
     "_classes": "",
     "pageBody": "",
     "linkText": "View",
@@ -581,7 +581,7 @@
   {
     "title": "10. Trends in data",
     "displayTitle": "10. Trends in data",
-    "body": "<p>One of the key aspects of data analysis is that of spotting trends. Trends give an indication of the direction in which something is changing and can also help us predict what is going to happen next. However when trying to predict or classify we need to be confident our prediction is correct. This module looks at&nbsp;some of techniques that can be used to increase you confidence in making predictions and classifications from data.</p>",
+    "body": "<p>One of the key aspects of data analysis is that of spotting trends. Trends give an indication of the direction in which something is changing and can also help us predict what is going to happen next. However when trying to predict or classify we need to be confident our prediction is correct. This module looks at&nbsp;some of techniques that can be used to increase confidence in making predictions and classifications from data.</p>",
     "_classes": "",
     "pageBody": "",
     "linkText": "View",
