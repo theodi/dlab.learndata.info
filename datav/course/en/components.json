@@ -8,7 +8,7 @@
     "_isVisible": true,
     "title": "The shape of data",
     "displayTitle": "The shape of data",
-    "body": "<p>Data, it turns out, has shape. That shape has meaning.</p><p>The shape of data tells you everything you need to know about your data from its obvious features to its deepest secrets.</p><p>This module looks at some of the key methods to discover the shape and characteristics of quantitative&nbsp;(numeric) data including:</p><ul><li>Averages</li><li>5 number summary</li><li>Distributions and histograms</li></ul><p>Interactive exercises will take you through how to use the free Tableau Public tool to examine the shape of data.&nbsp;</p>",
+    "body": "<p>Data, it turns out, has shape. That shape has meaning.</p><p>The shape of data tells you everything you need to know about your data from its obvious features to its deepest secrets.</p><p>This module looks at some of the key methods to discover the shape and characteristics of quantitative&nbsp;(numeric) data including:</p><ul><li>Averages</li><li>Five-number summary</li><li>Distributions and histograms</li></ul><p>Interactive exercises will take you through how to use the free Tableau Public tool to examine the shape of data.&nbsp;</p>",
     "instruction": "",
     "_id": "5b6aa19df3aa7b05530a1a25",
     "_parentId": "5b6aa19cf3aa7b05530a1a24",
@@ -452,9 +452,9 @@
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That&#39;s right!</strong>&nbsp;</p><p>Random events cluster, when flipping a coin 10 times we should not expect 5 heads and 5 tails every time. Additionally, we should not expect every flip that results in a head to be followed by a tail and visa-versa.&nbsp;</p><p>In this case we also have a very low number of samples, so it is difficult to conclude anything except there were more heads than tails. We cannot in this case say if the coin is biased or not.</p>",
+      "correct": "<p><strong>That&#39;s right!</strong>&nbsp;</p><p>Random events cluster, when flipping a coin ten times we should not expect five&nbsp;heads and five&nbsp;tails every time. Additionally, we should not expect every flip that results in a head to be followed by a tail and visa-versa.&nbsp;</p><p>In this case we also have a very low number of samples, so it is difficult to conclude anything except there were more heads than tails. We cannot in this case say if the coin is biased or not.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>Random events cluster, when flipping a coin 10 times we should not expect 5 heads and 5 tails every time. Additionally, we should not expect every flip that results in a head to be followed by a tail and visa-versa.</p><p>In this case we also have a very low number of samples, so it is difficult to conclude anything except there were more heads than tails. We cannot in this case say if the coin is biased or not.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Random events cluster, when flipping a coin ten times we should not expect five&nbsp;heads and five&nbsp;tails every time. Additionally, we should not expect every flip that results in a head to be followed by a tail and visa-versa.&nbsp;</p><p>In this case we also have a very low number of samples, so it is difficult to conclude anything except there were more heads than tails. We cannot in this case say if the coin is biased or not.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -2308,7 +2308,7 @@
     "_items": [
       {
         "title": "Correlation",
-        "body": "<p>Just because there appears to be a correlation, doesn&#39;t mean there is one. A famous example from&nbsp;<a href=\"http://www.tylervigen.com/spurious-correlations\" target=\"_blank\">spurious correlations</a>&nbsp;was that banana pricing strongly correlates with number of people who died becoming tangled in their bed sheets. Or the 99% correlation between US spending on space, science and technology and suicides by hanging, strangulation and suffocation.</p>",
+        "body": "<p>Although there may be correlation, this does not mean there is causation. A famous example from&nbsp;spurious correlations&nbsp;was that <a href=\"http://www.tylervigen.com/spurious-correlations\" target=\"_blank\">banana pricing strongly correlates with number of people who died becoming tangled in their bed sheets</a>. Or the 99% correlation between US spending on space, science and technology, and suicides by hanging, strangulation and suffocation.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -2318,7 +2318,7 @@
       },
       {
         "title": "Percentages",
-        "body": "<p>Percentages can make small numbers look big and are often used this way. For example, last year there was a 100% increase in cancer cases linked to mobile phones. It went from 1 to 2. The other problem with percentages in that many confuse percentage points and percentages. Like in the UK when VAT rose 2.5% from 17.5%. It is at 20% now, but a 2.5% rise would actually make it 17.9375%.</p>",
+        "body": "<p>Percentages can make small numbers look big and are often used this way. For example, last year there was a 100% increase in cancer cases linked to mobile phones. It went from one case to two cases. The other problem with percentages in that many confuse percentage points and percentages. Like in the UK when VAT rose 2.5% from 17.5%. It is at 20% now, but a 2.5% rise would actually make it 17.9375%.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -2328,7 +2328,7 @@
       },
       {
         "title": "Risk",
-        "body": "<p>Risk is another category to be careful with in statistics. Stating that a risk has doubled, or using percentages, can make the situation appear worse (or better) than it is. Another common pitfall is to not adjust figures for floating variables. e.g. Saying&nbsp;<a href=\"http://www.cancerresearchuk.org/about-us/cancer-news/news-report/2012-05-31-global-cancer-incidence-predicted-to-increase-by-75-per-cent-by-2030\" target=\"_blank\">Global cancer incidence predicted to increase by 75 per cent by 2030</a>&nbsp;is pretty shocking. That is until you realise this percentage has been calculated from the raw numbers of people and has not be adjusted for population growth. Made a good headline though, didn&#39;t it?</p>",
+        "body": "<p>Risk is another category to be careful with in statistics. Stating that a risk has doubled, or using percentages, can make the situation appear worse (or better) than it is. Another common pitfall is to not adjust figures for floating variables. eg&nbsp;saying&nbsp;<a href=\"http://www.cancerresearchuk.org/about-us/cancer-news/news-report/2012-05-31-global-cancer-incidence-predicted-to-increase-by-75-per-cent-by-2030\" target=\"_blank\">Global cancer incidence predicted to increase by 75 per cent by 2030</a>&nbsp;is pretty shocking. That is until you realise this percentage has been calculated from the raw numbers of people and has not be adjusted for population growth. Made a good headline though, didn&#39;t it?</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -2677,7 +2677,7 @@
     "_isVisible": true,
     "title": "Summary and more reading",
     "displayTitle": "Summary and more reading",
-    "body": "<p>One of the key aspects of data analysis is that of spotting trends. Trends give an indication of the direction in which something is changing and can also help us predict what is going to happen next.</p><p>But be careful not to overfit or get lost in characteristics of the data that are not significant.&nbsp;</p><p>Even big corporations like Google have fallen into these traps. In 2008 their flu-trends piece of work turned out to be worse at predicting outbreaks of flu than existing techniques. <a href=\"https://www.youtube.com/watch?v=X0XqnAqvyIk&amp;list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS&amp;index=25\" target=\"_blank\">This&nbsp;great&nbsp;lecture</a> from the University of Washington looks at why.</p><p>As for classification, we need to be careful with how we build decisions and look for significant factors. Find out more about how the houses data can be used with machine learning algorithms with <a href=\"http://www.r2d3.us/visual-intro-to-machine-learning-part-1/\" target=\"_blank\">this fantastic introduction</a>.&nbsp;</p><p><a class=\"button\" href=\"#/id/5b6c19bf36b131054d3a4a10\">Previous module</a> <a class=\"button\" href=\"#/id/5b6c170b36b131054d3a459e\">Next module</a></p>",
+    "body": "<p>One of the key aspects of data analysis is that of spotting trends. Trends give an indication of the direction in which something is changing and can also help us predict what is going to happen next.</p><p>But be careful not to overfit or get lost in characteristics of the data that are not significant.&nbsp;</p><p>Even big corporations like Google have fallen into these traps. In 2008 their flu-trends piece of work turned out to be worse at predicting outbreaks of flu than existing techniques. This&nbsp;great&nbsp;lecture <a href=\"http://www.youtube.com/watch?v=X0XqnAqvyIk&amp;list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS&amp;index=25\" target=\"_blank\">from the University of Washington</a> looks at why.</p><p>As for classification, we need to be careful with how we build decisions and look for significant factors. Find out more about how the houses data can be used with machine-learning algorithms with <a href=\"http://www.r2d3.us/visual-intro-to-machine-learning-part-1/\" target=\"_blank\">this fantastic introduction</a>.&nbsp;</p><p><a class=\"button\" href=\"#/id/5b6c19bf36b131054d3a4a10\">Previous module</a> <a class=\"button\" href=\"#/id/5b6c170b36b131054d3a459e\">Next module</a></p>",
     "instruction": "",
     "_id": "5b6da764295191052e62a605",
     "_parentId": "5b6da71c295191052e62a603",
@@ -2792,7 +2792,7 @@
     "_isVisible": true,
     "title": "Sampling and hypothesis testing",
     "displayTitle": "Sampling and hypothesis testing",
-    "body": "<p>When testing an outcome it is of critical importance to consider the sample that has been take and the significance of the result compared to the null hypothesis, providing that is that the null hypothesis is known?</p>",
+    "body": "<p>When testing an outcome it is of critical importance to consider the sample that has been take and the significance of the result compared to the null hypothesis, providing that is that the null hypothesis is known.</p>",
     "instruction": "Expand the sections below to discover more",
     "_id": "5b6d43de295191052e62a338",
     "_parentId": "5b6d43de295191052e62a32a",
@@ -2809,7 +2809,7 @@
     "_items": [
       {
         "title": "Sampling",
-        "body": "<p>It is critical in statistics to select the correct sample to ensure fairness and representation. Sampling incorrectly can lead to incorrect predictions in election results (<a href=\"https://www.bbc.co.uk/news/uk-politics-32751993\" target=\"_blank\">as happened in the UK in 2015</a>), or suggest that there is a deadly virus sweeping the population, where there isn&#39;t. This happened in the UK in 2008 with the norovirus &quot;outbreak&quot;. During a two month period 2,000 confirmed cases were reported. From this a ratio of reported and unreported cases of 1:1500 was obtained from the Health Protection Agency. A simple calculation of 2000 x 1500 leads to the conclusion that <a href=\"http://news.bbc.co.uk/1/hi/health/7182988.stm\" target=\"_blank\">3m people had norovirus</a>! What wasn&#39;t reported was the confidence in this ratio, which was 5%. To put it another way there is a 95% chance that those 3m people don&#39;t have norovirus.&nbsp;</p>",
+        "body": "<p>It is critical in statistics to select the correct sample to ensure fairness and representation. Sampling incorrectly can lead to incorrect predictions in election results (<a href=\"https://www.bbc.co.uk/news/uk-politics-32751993\" target=\"_blank\">as happened in the UK in 2015</a>), or suggest that there is a deadly virus sweeping the population, where there isn&#39;t. This happened in the UK in 2008 with the norovirus &quot;outbreak&quot;. During a two-month period 2,000 confirmed cases were reported. From this a ratio of reported and unreported cases of 1:1500 was obtained from the Health Protection Agency. A simple calculation of 2000 x 1500 leads to the conclusion that <a href=\"http://news.bbc.co.uk/1/hi/health/7182988.stm\" target=\"_blank\">three million&nbsp;people had norovirus</a>! What wasn&#39;t reported was the confidence in this ratio, which was 5%. To put it another way there is a 95% chance that those three million&nbsp;people don&#39;t have norovirus.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3014,8 +3014,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Classification: Try it yourself",
-    "displayTitle": "Classification: Try it yourself",
+    "title": "Classification: try it yourself",
+    "displayTitle": "Classification: try it yourself",
     "body": "<p>Try downloading <a href=\"course/en/assets/70e58552aea567af36b0f51f3a323be50d1657e2.csv\" target=\"_blank\">this dataset</a> and following the video to look at your own classification of properties in New York and San Francisco&nbsp;using box plots and scatter plots.</p>",
     "instruction": "",
     "_id": "5b6d9f72295191052e62a5f8",
@@ -3574,7 +3574,7 @@
     "_isVisible": true,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>To some numbers can be intimidating.&nbsp;The trick is seeing through them.</p><p>Statistics provides tools that you need in order to react intelligently to information you hear or read. In this sense, statistics is one of the most important things that you can study.</p><p>From knowing what is being counted to how that sample is representative, being aware of the core concepts of statistics is key to any data analysis.</p><p><a class=\"button\" href=\"#/id/5b6aa19cf3aa7b05530a1a22\">Previous module</a> <a class=\"button\" href=\"#/id/5b6c19fe36b131054d3a4a13\">Next module</a></p>",
+    "body": "<p>To some numbers can be intimidating.&nbsp;The trick is seeing through them.</p><p>Basic statistical knowledge can help you&nbsp;react intelligently to information you hear or read. In this sense, statistics is one of the most important things that you can study.</p><p>From knowing what is being counted to how that sample is representative, being aware of the core concepts of statistics is key to any data analysis.</p><p><a class=\"button\" href=\"#/id/5b6aa19cf3aa7b05530a1a22\">Previous module</a> <a class=\"button\" href=\"#/id/5b6c19fe36b131054d3a4a13\">Next module</a></p>",
     "instruction": "",
     "_id": "5b6d557b295191052e62a383",
     "_parentId": "5b6d556b295191052e62a382",
@@ -5008,9 +5008,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Classification: Dealing with noise",
-    "displayTitle": "Classification: Dealing with noise",
-    "body": "<p>Not all characteristics are going to help easily classify something. For example eye colour does not help classify types of bird and certainly wouldn&#39;t be the first characteristic you would consider. The same is true&nbsp;in&nbsp;any data and classification. It is important to find out which aspects are those that will help perform the most effective classification.&nbsp;</p><p>With data, a scatter plot (as shown here) can be used to plot each characteristic against every other. Doing this, patterns may start to appear that separate one type of thing (e.g. a bird) from another.</p><p>The scatter plot here looks at characteristics&nbsp;of houses in two different cities (represented by colour). It is clear to see from these plots that the characteristics that differentiate&nbsp;the two cities most are &quot;elevation&quot; and &quot;price per sqft&quot;.</p>",
+    "title": "Classification: dealing with noise",
+    "displayTitle": "Classification: dealing with noise",
+    "body": "<p>Not all characteristics are going to help easily classify something. For example eye colour does not help classify types of bird and certainly wouldn&#39;t be the first characteristic you would consider. The same is true&nbsp;in&nbsp;any data and classification. It is important to find out which aspects are those that will help perform the most effective classification.&nbsp;</p><p>With data, a scatter plot (as shown here) can be used to plot each characteristic against every other. Doing this, patterns may start to appear that separate one type of thing (eg&nbsp;a bird) from another.</p><p>The scatter plot here looks at characteristics&nbsp;of houses in two different cities (represented by colour). It is clear to see from these plots that the characteristics that differentiate&nbsp;the two cities most are &#39;elevation&#39;&nbsp;and &#39;price per sqft&#39;.</p>",
     "instruction": "",
     "_id": "5b6d9d82295191052e62a5f6",
     "_parentId": "5b6d9d7c295191052e62a5f5",
@@ -5034,7 +5034,7 @@
     "_isVisible": true,
     "title": "Classification",
     "displayTitle": "Classification",
-    "body": "<p>Classification is another type of predictive analysis. Classification is a process related to categorisation, the process in which ideas and objects are recognised, differentiated, and understood.&nbsp;</p><p>A typical example is that of identifying a bird. There are thousands of species and variants of species, thus a novice twitcher (bird watcher)&nbsp;is unlikely to be able to identify the exact species by will use characteristics like size, colour and call in order to perhaps get the correct family of bird (e.g. gull).&nbsp;</p><p>The same can be done with data and indicators. In the commerce industry, people&#39;s buying habits are often used to classify them into a certain demographic of customer that helps the industry target it&#39;s marketing better.&nbsp;</p>",
+    "body": "<p>Classification is another type of predictive analysis. Classification is a process related to categorisation, the process in which ideas and objects are recognised, differentiated, and understood.&nbsp;</p><p>A typical example is that of identifying a bird. There are thousands of species and variants of species, thus a novice twitcher (bird watcher)&nbsp;is unlikely to be able to identify the exact species by will use characteristics like size, colour and call in order to perhaps get the correct family of bird (eg&nbsp;gull).&nbsp;</p><p>The same can be done with data and indicators. In the commerce industry, people&#39;s buying habits are often used to classify them into a certain demographic of customer that helps the industry target it&#39;s marketing better.&nbsp;</p>",
     "instruction": "",
     "_id": "5b6d9ae9295191052e62a5f1",
     "_parentId": "5b6d9ae3295191052e62a5f0",
@@ -5429,7 +5429,7 @@
     "_items": [
       {
         "title": "Normal distribution",
-        "body": "<p>A normal distribution (or bell curve) is a symmetrical distribution where the mean, median and mode are all very similar (or the same).</p><p>Many things closely follow a Normal Distribution:</p><ul><li>heights of people</li><li>errors in measurements</li><li>blood pressure</li><li>marks on a test</li></ul>",
+        "body": "<p>A normal distribution (or bell curve) is a symmetrical distribution where the mean, median and mode are all the same.</p><p>Many things closely follow a Normal Distribution:</p><ul><li>heights of people</li><li>errors in measurements</li><li>blood pressure</li><li>marks on a test</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -5533,7 +5533,7 @@
     "_isVisible": true,
     "title": "Averages",
     "displayTitle": "Averages",
-    "body": "<p>Not all averages are the same.&nbsp;</p><p>Often &quot;average&quot; refers to the&nbsp;arithmetic mean, the sum of the numbers divided by how many numbers are being averaged. When analysing data it is important to understand the difference between&nbsp;mean,&nbsp;median, and&nbsp;mode.</p>",
+    "body": "<p>Not all averages are the same.&nbsp;</p><p>Often &#39;average&#39;&nbsp;refers to the&nbsp;arithmetic mean, the sum of the numbers divided by how many numbers in that set. When analysing data it is important to understand the difference between&nbsp;mean,&nbsp;median, and&nbsp;mode.</p>",
     "instruction": "",
     "_id": "5b6aa4eef3aa7b05530a1a2c",
     "_parentId": "5b6aa498f3aa7b05530a1a2b",
@@ -5560,7 +5560,7 @@
       },
       {
         "title": "Median",
-        "body": "<p>The median is middle number of the list where the numbers are ranked in order.&nbsp;</p><p>For example take the following list of numbers that are already ranked in ascending order:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>There are 7 numbers, the middle number will be the 4th one in the list. Therefor the median of this list of numbers is <strong>10</strong>.&nbsp;</p>",
+        "body": "<p>The median is middle number of the list where the numbers are ranked in order.&nbsp;</p><p>For example take the following list of numbers that are already ranked in ascending order:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>There are seven&nbsp;numbers, the middle number will be the fourth&nbsp;one in the list. Therefore the median of this list of numbers is <strong>10</strong>.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -5570,7 +5570,7 @@
       },
       {
         "title": "Mode",
-        "body": "<p>The mode is the most frequently occurring number in the list.&nbsp;</p><p>Taking our list of numbers:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>The most frequently occurring number is <strong>13</strong>.</p><p>It may happen that there are two or more numbers which occur equally often and more often than any other number. In this case there is no agreed definition of mode. Some&nbsp;say they are all modes and some say there is no mode.</p><p>&nbsp;</p>",
+        "body": "<p>The mode is the most frequently occurring number in the list.&nbsp;</p><p>Taking our list of numbers:</p><p>3, 5, 8, 10, 13, 13, 18</p><p>The most frequently occurring number is <strong>13</strong>.</p><p>There can be more than one mode and there can also be no mode.</p><p>&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -5607,7 +5607,7 @@
     "_items": [
       {
         "title": "Counting",
-        "body": "<p>Counting is hard. Especially when the definition of what is being counted in not clear.</p><p>For example, counting the number of boats in the picture here...</p><p>Are there 9? Or are there 0 as none are boats they are canoes...&nbsp;or kayaks... who knows?</p><p>The boundaries are not always clear in all cases, so the statistics might not be either.</p>",
+        "body": "<p>Counting is hard. Especially when the definition of what is being counted in not clear.</p><p>For example, counting the number of boats in the picture here...</p><p>Are there nine? Or are there zero&nbsp;as none are boats &ndash;&nbsp;they are canoes...&nbsp;or kayaks... who knows?</p><p>The boundaries are not clear in all cases, so the statistics might not be either.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -5617,7 +5617,7 @@
       },
       {
         "title": "Big and small numbers",
-        "body": "<p>Numbers can be big or small, but sometimes a small number can be big and a big number can be small.</p><p>It is important to think about the environment and context that each number applies to before coming to conclusions.</p><p>For example a score of 10 (out of 10) is a big score, but &pound;3m for the health service split between the population of the UK is 4.5p each.</p>",
+        "body": "<p>Numbers can be big or small, but sometimes a small number can be big and a big number can be small.</p><p>It is important to think about the environment and context that each number applies to before coming to conclusions.</p><p>For example a score of 10 out of 10&nbsp;is a big score, while &pound;3m for the health service sounds like a large amount, when split between the population of the UK is 4.5p each.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -5893,7 +5893,7 @@
     "_isVisible": true,
     "title": "What is trend analysis?",
     "displayTitle": "What is trend analysis?",
-    "body": "<p>Trend analysis&nbsp;is a type of predictive analysis similar to (and often called regression analysis). It uses existing or historical data to try and predict what might happen in the future.</p><p>One of the best examples of trend analysis is in credit scoring, used throughout financial services. This type of analysis looks at a customers financial history and gives a score to indicate their likelihood of making future credit payments on time.&nbsp;</p><p>As we have seen in the previous module, we need to be careful how predictive analysis is applied due to factors like fluctuation. Some data may look like it will trend when it fact it doesn&#39;t and might have a different shape.</p><p>Before moving on why not try to predict where the trend will end up if another 10 points are added to the graph shown here. A,B,C or D?</p><p>&nbsp;</p>",
+    "body": "<p>Trend analysis&nbsp;is a type of predictive analysis similar to (and often called) regression analysis. It uses existing or historical data to try and predict what might happen in the future.</p><p>One of the best examples of trend analysis is in credit scoring, used throughout financial services. This type of analysis looks at a customers financial history and gives a score to indicate their likelihood of making future credit payments on time.&nbsp;</p><p>As we have seen in the previous module, we need to be careful how predictive analysis is applied due to factors like fluctuation. Some data may look like it will trend when it fact it doesn&#39;t and might have a different shape.</p><p>Before moving on why not try to predict where the trend will end up if another 10 points are added to the graph shown here. A,B,C or D?</p><p>&nbsp;</p>",
     "instruction": "",
     "_id": "5b6d8ebc295191052e62a5d7",
     "_parentId": "5b6d8dd6295191052e62a5d6",
@@ -5972,7 +5972,7 @@
     "_isVisible": true,
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>Data, it turns out, has shape. That shape has meaning.</p><p>The shape of data tells you everything you need to know about your data from its obvious features to its deepest&nbsp;secrets.</p><p>This module looked&nbsp;at some of the key methods to discover&nbsp;the shape and characteristics of quantitative&nbsp;(numeric) data including:</p><ul><li>Averages</li><li>5 number summary</li><li>Distributions and histograms</li></ul><p>By the end of this module you should be confident in unlocking the shape of data.&nbsp;</p><p><a class=\"button\" href=\"#/id/5b6c170b36b131054d3a4596\">Previous module</a> <a class=\"button\" href=\"#/id/5b6c19bf36b131054d3a4a10\">Next module</a></p>",
+    "body": "<p>Data, it turns out, has shape. That shape has meaning.</p><p>The shape of data tells you everything you need to know about your data from its obvious features to its deepest&nbsp;secrets.</p><p>This module looked&nbsp;at some of the key methods to discover&nbsp;the shape and characteristics of quantitative&nbsp;(numeric) data including:</p><ul><li>Averages</li><li>Five-number summary</li><li>Distributions and histograms</li></ul><p>By the end of this module you should be confident in unlocking the shape of data.&nbsp;</p><p><a class=\"button\" href=\"#/id/5b6c170b36b131054d3a4596\">Previous module</a> <a class=\"button\" href=\"#/id/5b6c19bf36b131054d3a4a10\">Next module</a></p>",
     "instruction": "",
     "_id": "5b6ae2eaf3aa7b05530a1aa2",
     "_parentId": "5b6ae2dff3aa7b05530a1aa1",
@@ -6088,7 +6088,7 @@
     "_items": [
       {
         "title": "Example",
-        "body": "<p>Taking our 9 number list (3, 5, 8, 10, 13, 13, 18,&nbsp;21, 104), the five-number summary would be as follows:</p><ol><li>Minimum: <strong>3</strong></li><li>Lower quartile:&nbsp;<strong>6.5&nbsp;</strong>(half way between 5 and 8)</li><li>Median:&nbsp;<strong>13</strong></li><li>Upper quartile: <strong>19.5</strong>&nbsp;(half way between 18 and 21)</li><li>Maximum: <strong>104</strong></li></ol>",
+        "body": "<p>Taking our nine&nbsp;number list (3, 5, 8, 10, 13, 13, 18,&nbsp;21, 104), the five-number summary would be as follows:</p><ol><li>Minimum: <strong>3</strong></li><li>Lower quartile:&nbsp;<strong>6.5&nbsp;</strong>(half way between 5 and 8)</li><li>Median:&nbsp;<strong>13</strong></li><li>Upper quartile: <strong>19.5</strong>&nbsp;(half way between 18 and 21)</li><li>Maximum: <strong>104</strong></li></ol>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -8007,7 +8007,7 @@
       },
       {
         "title": "Averages",
-        "body": "<p>Most people know about one average, the one you get when you divide&nbsp;the sum by the number of samples, this is known as the mean. However the mean is not a robust statistic, so should be used with care. Of course in many instances it is mis-used. For example in Bush&#39;s 2008 state of the union address he attacked his opposition stating that their tax plans would mean an average tax hike of $1800 per person. As this is the mean, and peoples earnings are not evenly distributed, the proposals actually hit high earners badly, while putting money back in the pocket of those who need it. The mean is correct, just not robust.&nbsp;In its place other averages such as the median and mode should be considered.</p>",
+        "body": "<p>Most people know about one average, the one you get when you divide&nbsp;the sum by the number of samples, this is known as the mean. However the mean is not a robust statistic (as it is not resistant to outliers), so should be used with care. Of course in many instances it is misused. For example in Bush&#39;s 2008 state of the union address he attacked his opposition stating that their tax plans would mean an average tax hike of US$1,800 per person. As this is the mean, and people&#39;s earnings are not evenly distributed, the proposals actually hit high earners badly, while putting money back in the pocket of those who need it. The mean is correct, just not robust.&nbsp;In its place other averages such as the median and mode should be considered.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -8017,7 +8017,7 @@
       },
       {
         "title": "Targets",
-        "body": "<p>Targets have a profound effect on people&#39;s behavior. Once a target is introduced, people will&nbsp;game the outcome to match this target.</p><p>For example, the US in the 1990s introduced a prospective payment system for medicine. This paid a standard rate for well defined medical conditions. A national survey carried out by the British Medical Journal of US doctors found that 39% admitted to using tactics - including exaggerating symptoms - to secure additional funding. Many surgeons (<a href=\"https://edition.cnn.com/2015/07/10/us/michigan-cancer-doctor-sentenced/index.html\" target=\"_blank\">such as this guy</a>) have since been jailed for such practices.&nbsp;</p>",
+        "body": "<p>Targets have a profound effect on people&#39;s behaviour. Once a target is introduced, people will&nbsp;game the outcome to match this target.</p><p>For example, in the 1990s the US&nbsp;introduced a prospective payment system for medicine. This paid a standard rate for well-defined medical conditions. A national survey of US doctors&nbsp;carried out by the British Medical Journal found that 39% admitted to using tactics &ndash;&nbsp;including exaggerating symptoms &ndash;&nbsp;to secure additional funding. Many surgeons (<a href=\"https://edition.cnn.com/2015/07/10/us/michigan-cancer-doctor-sentenced/index.html\" target=\"_blank\">such as this guy</a>) have since been jailed for such practices.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -10054,7 +10054,7 @@
     "_isVisible": true,
     "title": "Seeing through a world of numbers",
     "displayTitle": "Seeing through a world of numbers",
-    "body": "<p>Public spending, health risks, environmental disasters, who is rich, who is poor, pensions, the best and worst schools and hospitals, immigration - life comes in numbers. The trick is seeing through them.</p><p>To some numbers can be intimidating. They can also create illusions and lead us to see what is not actually there. This module reveals what the numbers really show and exposes the illusions.</p><p>This module looks at:</p><ul><li>Counting, numbers and chance</li><li>Fluctuation, averages and targets</li><li>Sampling and hypothesis testing</li><li>Correlation and percentages</li></ul>",
+    "body": "<p>Public spending, health risks, environmental disasters, who is rich, who is poor, pensions, the best and worst schools and hospitals, immigration &ndash;&nbsp;life comes in numbers. The trick is seeing through them.</p><p>To some, numbers can be intimidating. They can also create illusions and lead us to see what is not actually there. This module reveals what the numbers really show and exposes the illusions.</p><p>This module looks at:</p><ul><li>Counting, numbers and chance</li><li>Fluctuation, averages and targets</li><li>Sampling and hypothesis testing</li><li>Correlation and percentages</li></ul>",
     "instruction": "",
     "_id": "5b6c1f7b36b131054d3a4a1b",
     "_parentId": "5b6c19bf36b131054d3a4a12",
@@ -11229,7 +11229,7 @@
     "_isVisible": true,
     "title": "Trends in data",
     "displayTitle": "Trends in data",
-    "body": "<p>One of the key aspects of data analysis is that of spotting trends. Trends give an indication of the direction in which something is changing and can also help us predict what is going to happen next. However when trying to predict or classify we need to be confident our prediction is correct.&nbsp;</p><p>This module explores</p><ul><li>What is trend analysis?</li><li>Overfitting</li><li>Confidence</li><li>Classification</li><li>More data is not always the answer</li></ul>",
+    "body": "<p>One of the key aspects of data analysis is that of spotting trends. Trends give an indication of the direction in which something is changing and can also help us predict what is going to happen next. However when trying to predict or classify we need to be confident our prediction is likely to be&nbsp;correct.&nbsp;</p><p>This module explores</p><ul><li>What is trend analysis?</li><li>Overfitting</li><li>Confidence</li><li>Classification</li><li>More data is not always the answer</li></ul>",
     "instruction": "",
     "_id": "5b6c1f8336b131054d3a4a1c",
     "_parentId": "5b6c19fe36b131054d3a4a15",
@@ -11251,33 +11251,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Confidence",
-    "displayTitle": "Confidence",
-    "body": "<p>Regardless of the type of predictive analysis you are performing you want to be confident in your prediction. Fortunately statistics has some techniques that can help you test this.</p><p>The module on the shape of data looked at the distribution of data about the mean or median (averages). The normal distribution is very important when looking at the distribution of data as it shows where the majority of data points should exist.&nbsp;Thus if&nbsp;a new data point is plotted, it shouldn&#39;t change the shape.</p><p>Calculating the&nbsp;<strong>standard deviation</strong>&nbsp;of the data can give us an easy way to calculate how spread out data is.&nbsp;</p><p>It is good to know the standard deviation, because we can say that any value is:</p><ul><li><strong>likely</strong>&nbsp;to be within 1 standard deviation (68 out of 100 should be)</li><li><strong>very likely</strong>&nbsp;to be within 2 standard deviations (95 out of 100 should be)</li><li><strong>almost certainly</strong>&nbsp;within 3 standard deviations (997 out of 1000 should be)</li></ul><p>Thus the best trend line will be the one that actually matches the real data when most subsequent&nbsp;points fall within 2 standard deviations of&nbsp;the trend line. The same type of test can also be used to test for <a href=\"https://en.wikipedia.org/wiki/Statistical_significance\" target=\"_blank\">statistical significance</a>, for example in order to claim that a coin toss is biased.</p>",
-    "instruction": "",
-    "_id": "5b6d96a3295191052e62a5eb",
-    "_parentId": "5b6d969d295191052e62a5ea",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
     "title": "Overfitting",
     "displayTitle": "Overfitting",
-    "body": "<p>If you tried to make a prediction given the last graph then it doesn&#39;t matter what you said as all answers could be equally valid.</p><p>If you think the trend would move up towards&nbsp;<strong>A&nbsp;</strong>then this would be down to fluctuation.&nbsp;<strong>B&nbsp;</strong>is the average of all the existing 10 points (y=102).&nbsp;<strong>C&nbsp;</strong>is a strait line of best fit (linear) through all the points (e.g. y=ax+b). <strong>D</strong>&nbsp;is the result of a <a href=\"https://www.desmos.com/calculator/pfdwlq5qht\" target=\"_blank\">quadratic</a> line of best fit (e.g. y=ax<sup>2</sup>+bx+c)</p><p>In fact you can keep adding powers to make a complex polynomial equation (e.g.&nbsp;y=ax<sup>5</sup>+bx<sup>4</sup>+cx<sup>3</sup>+dx<sup>2</sup>+ex+f) that will fit perfectly through every point.&nbsp;</p><p>As you can see however, as you add powers to the equation, the potential to sensibly predict the next value diminishes. This is a problem known as <strong>overfitting</strong>. When doing predictive analysis you can avoid overfitting by either:</p><ul><li>Taking the line of best fit that has the lower power multiplier (e.g. linear or average)</li><li>Working with a function that you test works to gain confidence that it has not overfitted.</li></ul>",
+    "body": "<p>If you tried to make a prediction given the last graph then it doesn&#39;t matter what you said as all answers could be equally valid.</p><p>If you think the trend would move up towards&nbsp;<strong>A&nbsp;</strong>then this would be down to fluctuation.&nbsp;<strong>B&nbsp;</strong>is the average of all the existing 10 points (y=102).&nbsp;<strong>C&nbsp;</strong>is a straight line of best fit (linear) through all the points (y=ax+b). <strong>D</strong>&nbsp;is the result of a <a href=\"https://www.desmos.com/calculator/pfdwlq5qht\" target=\"_blank\">quadratic</a> line of best fit (y=ax<sup>2</sup>+bx+c)</p><p>In fact you can keep adding powers to make a complex polynomial equation (y=ax<sup>5</sup>+bx<sup>4</sup>+cx<sup>3</sup>+dx<sup>2</sup>+ex+f) that will fit perfectly through every point.&nbsp;</p><p>As you can see however, as you add powers to the equation, the potential to sensibly predict the next value diminishes. This is a problem known as <strong>overfitting</strong>. When doing predictive analysis you can avoid overfitting by either:</p><ul><li>Taking the line of best fit that has the lower power multiplier (e.g. linear or average)</li><li>Working with a function that you test works to gain confidence that it has not overfitted.</li></ul>",
     "instruction": "",
     "_id": "5b6d919b295191052e62a5df",
     "_parentId": "5b6d9196295191052e62a5de",
@@ -12099,6 +12075,30 @@
       "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Confidence",
+    "displayTitle": "Confidence",
+    "body": "<p>Regardless of the type of predictive analysis you are performing you want to be confident in your prediction. Fortunately there are some statistical&nbsp;techniques that can help you test this.</p><p>The module on the shape of data looked at the distribution of data about the mean or median (averages). The normal distribution is very important when looking at the distribution of data as it shows where the majority of data points should exist.&nbsp;Thus if&nbsp;a new data point is plotted, it shouldn&#39;t change the shape.</p><p>Calculating the&nbsp;<strong>standard deviation</strong>&nbsp;of the data can give us an easy way to calculate how spread out data is.&nbsp;</p><p>It is good to know the standard deviation, because we can say that any value is:</p><ul><li><strong>likely</strong>&nbsp;to be within one&nbsp;standard deviation (68 out of 100 should be)</li><li><strong>very likely</strong>&nbsp;to be within two&nbsp;standard deviations (95 out of 100 should be)</li><li><strong>almost certainly</strong>&nbsp;within three&nbsp;standard deviations (997 out of 1000 should be)</li></ul><p>Thus the best trend line will be the one that actually matches the real data when most subsequent&nbsp;points fall within two standard deviations of&nbsp;the trend line. The same type of test can also be used to test for <a href=\"https://en.wikipedia.org/wiki/Statistical_significance\" target=\"_blank\">statistical significance</a>, for example in order to claim that a coin toss is biased.</p>",
+    "instruction": "",
+    "_id": "5b6d96a3295191052e62a5eb",
+    "_parentId": "5b6d969d295191052e62a5ea",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
     }
   }
 ]
