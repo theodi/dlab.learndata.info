@@ -34,15 +34,8 @@
   },
   "build": {
     "includes": [
-      "adapt-theme-dlab",
       "adapt-contrib-boxMenu",
-      "adapt-odi-footerLink",
-      "adapt-contrib-aboutPage",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-contrib-tutor",
-      "adapt-skillsFramework",
-      "adapt-odi-licence",
-      "adapt-contrib-resources",
+      "579b741bf399990a1aefebe2",
       "adapt-contrib-graphic",
       "adapt-contrib-text",
       "adapt-contrib-accordion",
@@ -50,7 +43,14 @@
       "adapt-contrib-narrative",
       "adapt-contrib-mcq",
       "adapt-contrib-gmcq",
-      "adapt-contrib-responsiveIframe"
+      "adapt-contrib-responsiveIframe",
+      "adapt-odi-footerLink",
+      "adapt-contrib-aboutPage",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-skillsFramework",
+      "adapt-odi-licence",
+      "adapt-contrib-resources"
     ]
   }
 }

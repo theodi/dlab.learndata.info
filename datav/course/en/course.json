@@ -1,5 +1,5 @@
 {
-  "title": "Data analysis and visualisation for policy makers",
+  "title": "[dLab] Data analysis and visualisation for policy makers",
   "displayTitle": "Data analysis and visualisation for policy makers",
   "body": "<p dir=\"ltr\">Data must inspire and full innovation. It can enable businesses, startups, governments, individuals and communities to create products and services, fuelling economic growth and productivity.</p><p dir=\"ltr\">Data can help us make better decisions, something that is core to policy making. From investment in local services, discussions over trade to providing basic schooling, getting the right policies in place is key.&nbsp;&nbsp;When effectively analysed and presented in a clear and compelling way, data can lead to better decision making.</p><p dir=\"ltr\">This set of materials have been put together to help those working in policy and change grow their data and communication skills.&nbsp;</p>",
   "description": "",
@@ -72,14 +72,29 @@
       "_text": {
         "ariaRegion": ""
       },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "ariaPopupLabel": "Hotgraphic popup"
+      },
       "_accordion": {
         "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
       },
       "_mcq": {
         "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       },
-      "_gmcq": {
-        "ariaRegion": "This component is a graphical multiple choice question. Once you have selected an option select the submit button below."
+      "_jsonschema": {
+        "ariaRegion": "This question requires you to input your answer in the codebox provided. When you have done so, select the submit button below."
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_notify-imagegrid": {
+        "ariaRegion": "This component contains images laid out in a flexible grid."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
       },
       "_narrative": {
         "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
@@ -87,6 +102,21 @@
       "_media": {
         "ariaRegion": "This is a media component which plays a video. Select the play / pause button to watch or listen.",
         "transcriptButton": "Alternatively you can select the link below for the transcript."
+      },
+      "_media-autoplay": {
+        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript.",
+        "ariaTranscriptLabel": "Transcript",
+        "ariaCaptionsLabel": "Subtitles"
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_gmcq": {
+        "ariaRegion": "This component is a graphical multiple choice question. Once you have selected an option select the submit button below."
       }
     },
     "_extensions": {
@@ -99,7 +129,7 @@
         "titleText": "About",
         "contactEMail": "training@theodi.org",
         "contactLinkText": "Contact",
-        "aboutCredit": "<p>&copy; <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a></p>",
+        "aboutCredit": "<p>© <a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a></p>",
         "SL_text": "<p>Developed for Tanzania Data Lab by the&nbsp;<a href=\"https://theodi.org/\" tabindex=\"0\" target=\"_blank\">Open Data Institute</a></p>",
         "SL_facebook": "",
         "SL_flickr": "",
@@ -122,7 +152,7 @@
         "optionalContent": "Optional Content"
       },
       "_resources": {
-        "resourcesEnd": "You have reached the end of the list of resources."
+        "resources": "Additional resources."
       }
     }
   },
